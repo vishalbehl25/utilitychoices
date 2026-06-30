@@ -1,0 +1,17 @@
+{
+  "iprimus-standard-plus-nbn": {
+    "note": "UC URL serves iiNet NBN25 page; provider research uses iPrimus 25 tier from iprimus.com.au",
+    "ucPageTitle": "iiNet NBN25 Liimitless",
+    "providerCompany": "iPrimus",
+    "providerPlanName": "Standard Plus 25"
+  },
+  "iprimus-standard-plus": {
+    "note": "No dedicated UC listing link; detail from iPrimus Standard Plus page via UC URL override",
+    "providerPlanName": "Standard Plus 50"
+  },
+  "kogan-nbn-gold": {
+    "note": "UC URL kogan-nbn-gold- serves wrong page; use Kogan Internet Gold tier",
+    "ucPageTitle": "iPrimus Standard Plus",
+    "providerPlanName": "Gold nbn 100"
+  }
+}

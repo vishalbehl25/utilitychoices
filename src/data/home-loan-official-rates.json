@@ -1,0 +1,440 @@
+{
+  "ratesAsAt": "June 2026",
+  "rateQualifier": "Owner occupier, principal & interest; indicative LVR ≤80% unless noted. Verify with lender before applying.",
+  "products": {
+    "nab-choice-package-fixed-rate-home-loan": {
+      "sourceUrl": "https://www.nab.com.au/personal/interest-rates-fees-and-charges/home-loan-interest-rates",
+      "interestRate": "6.49%",
+      "comparisonRate": "8.01%",
+      "interestRateType": "Fixed",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$395 p.a.",
+      "loanFee": "$3,120",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$395 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "You can make extra payments of up to $20,000 during the fixed term without incurring penalties.",
+        "NAB Choice Package includes split loan facility."
+      ],
+      "cons": [
+        "Annual package fee of $395 applies.",
+        "Discharge fee of $350 applies when you fully repay the loan.",
+        "Comparison rate is significantly higher once package and fees are included."
+      ]
+    },
+    "community-first-bank-true-basic-variable-home-loan": {
+      "sourceUrl": "https://www.communityfirst.com.au/owner-occupier-home-loans/",
+      "interestRate": "5.94%",
+      "comparisonRate": "5.99%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$2,945",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$300"
+      },
+      "pros": [
+        "No monthly or annual fees on the Go Basic variable product.",
+        "Redraw facility available.",
+        "Borrow up to 95% LVR (LMI may apply above 80%)."
+      ],
+      "cons": [
+        "Valuation and legal fees may apply in some cases.",
+        "Rates vary by LVR tier."
+      ]
+    },
+    "ing-orange-advantage-fixed-home-loan": {
+      "sourceUrl": "https://www.ing.com.au/home-loans/orange-advantage.html",
+      "interestRate": "5.29%",
+      "comparisonRate": "5.76%",
+      "interestRateType": "Fixed",
+      "rewardPoints": "Yes",
+      "applicationFee": "$0",
+      "ongoingFee": "$299 p.a.",
+      "loanFee": "$2,920",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$299 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "100% offset account via Orange Advantage package.",
+        "0.10% p.a. discount on advertised fixed rates for owner occupiers.",
+        "Unlimited additional repayments."
+      ],
+      "cons": [
+        "Annual package fee of $299 applies.",
+        "Fixed rates vary by term and LVR — confirm your quote."
+      ]
+    },
+    "macquarie-bank-basic-home-loan": {
+      "sourceUrl": "https://www.macquarie.com.au/home-loans/home-loan-rates.html",
+      "interestRate": "6.14%",
+      "comparisonRate": "6.16%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$3,055",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "No ongoing account-keeping fees.",
+        "Free redraw and free loan splits.",
+        "Variable and fixed rate options available."
+      ],
+      "cons": [
+        "Rates increase at higher LVR tiers.",
+        "No offset account on the Basic product."
+      ]
+    },
+    "nrma-home-loans-fixed-home-loan": {
+      "sourceUrl": "https://www.nrma.com.au/home-loans",
+      "interestRate": "6.49%",
+      "comparisonRate": "6.14%",
+      "interestRateType": "Fixed",
+      "rewardPoints": "Yes",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$3,157",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "$0 application fee for eligible applications.",
+        "Up to $20,000 extra repayments per year without penalty during fixed term.",
+        "Redraw available on variable and fixed products."
+      ],
+      "cons": [
+        "Fixed rate reverts to variable at end of term unless re-fixed.",
+        "Property must be in a capital city or major regional area."
+      ]
+    },
+    "regional-australia-bank-variable-home-loan": {
+      "sourceUrl": "https://www.regionalaustraliabank.com.au/home-loans/regional-australia-bank-home-loan",
+      "interestRate": "5.99%",
+      "comparisonRate": "6.02%",
+      "interestRateType": "Variable",
+      "rewardPoints": "N/A",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$2,998",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "Competitive variable rate for lower LVR tiers.",
+        "Redraw and extra repayments available on variable loans.",
+        "Optional offset accounts on variable products."
+      ],
+      "cons": [
+        "Best advertised rate applies at LVR 60% or less.",
+        "Rates subject to change until approval."
+      ]
+    },
+    "macquarie-bank-basic-fixed-home-loan": {
+      "sourceUrl": "https://www.macquarie.com.au/home-loans/home-loan-rates.html",
+      "interestRate": "6.64%",
+      "comparisonRate": "6.31%",
+      "interestRateType": "Fixed",
+      "rewardPoints": "Yes",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$3,095",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "No ongoing fees on Basic home loan.",
+        "Free redraw and splits.",
+        "Fixed terms available up to 5 years."
+      ],
+      "cons": [
+        "Break costs may apply if you exceed prepayment limits during fixed term.",
+        "Rate shown is indicative 3-year fixed, LVR ≤80%."
+      ]
+    },
+    "g%26c-mutual-bank-first-home-buyer": {
+      "sourceUrl": "https://www.gcmutual.bank/products/home-loans/first-home-buyer-loan-owner-occupied/",
+      "interestRate": "5.35%",
+      "comparisonRate": "5.40%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$2,865",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "No establishment or monthly fees.",
+        "100% offset account available.",
+        "Unlimited extra repayments and redraw."
+      ],
+      "cons": [
+        "Eligible for first home buyers (age and scheme criteria may apply).",
+        "Maximum LVR 80% without LMI; up to 95% with LMI."
+      ]
+    },
+    "unloan-variable-home-loan": {
+      "sourceUrl": "https://www.unloan.com.au/home-loan",
+      "interestRate": "5.89%",
+      "comparisonRate": "5.80%",
+      "interestRateType": "Variable",
+      "rewardPoints": "N/A",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$2,935",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$0"
+      },
+      "pros": [
+        "No application, account-keeping, or exit fees.",
+        "Loyalty discount increases 0.01% p.a. each year up to 0.30% p.a.",
+        "Unlimited free redraw."
+      ],
+      "cons": [
+        "No offset account — uses redraw instead.",
+        "Higher rates apply above 80% LVR (LMI required)."
+      ]
+    },
+    "loans.com.au-solar-home-loan": {
+      "sourceUrl": "https://www.loans.com.au/home-loans/home-loan-options",
+      "interestRate": "5.79%",
+      "comparisonRate": "5.83%",
+      "interestRateType": "Variable",
+      "rewardPoints": "N/A",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$2,931",
+      "rateNote": "Solar-specific rate not published; shown rate is Variable Bare owner occupier ≤90% LVR.",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "Competitive variable rate on basic product.",
+        "Borrow up to 90% LVR on Variable Bare.",
+        "Fast online application."
+      ],
+      "cons": [
+        "Dedicated solar discount product may differ — confirm with loans.com.au.",
+        "Rates vary by LVR and product tier."
+      ]
+    },
+    "p%26n-bank-%26-basic-home-loan": {
+      "sourceUrl": "https://www.pnbank.com.au/help-and-support/interest-rates/home-loans/",
+      "interestRate": "5.94%",
+      "comparisonRate": "5.97%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$2,968",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$300",
+        "Discharge Fee": "$395"
+      },
+      "pros": [
+        "No ongoing monthly fees.",
+        "Redraw and extra repayments allowed.",
+        "Offset account available on some products."
+      ],
+      "cons": [
+        "Rates increase at higher LVR tiers.",
+        "Settlement and discharge fees apply."
+      ]
+    },
+    "westpac-flexi-first-option-home-loan-%E2%80%93-online-refinance-offer": {
+      "sourceUrl": "https://www.westpac.com.au/personal-banking/home-loans/refinance/",
+      "interestRate": "5.99%",
+      "comparisonRate": "6.00%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 per month",
+      "loanFee": "$2,978",
+      "rateNote": "Flexi First Option online refinance offer, LVR ≤80%.",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 per month",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "Life-of-loan discount for eligible online refinance applications.",
+        "Extra 0.10% p.a. discount when LVR ≤70%.",
+        "Apply online in as little as 20 minutes."
+      ],
+      "cons": [
+        "Offer excludes internal Westpac Group refinances.",
+        "LVR must be 80% or less to qualify."
+      ]
+    },
+    "qantas-money-variable-home-loan": {
+      "sourceUrl": "https://www.qantasmoney.com/home-loans/rates-and-fees",
+      "interestRate": "5.98%",
+      "comparisonRate": "6.04%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$345",
+      "ongoingFee": "$0 per month",
+      "loanFee": "$2,978",
+      "fees": {
+        "Application Fee": "$345",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 per month",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "Earn Qantas Points on eligible home loans.",
+        "Basic and offset variable products available.",
+        "Flexible repayment options."
+      ],
+      "cons": [
+        "Application fee applies unless waived under promotion.",
+        "Rates tiered by LVR — shown rate is LVR 70.01–80%."
+      ]
+    },
+    "anz-plus-home-loan-variable-rate": {
+      "sourceUrl": "https://www.anz.com.au/personal/home-loans/anz-plus-home-loan/",
+      "interestRate": "6.25%",
+      "comparisonRate": "6.25%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$0",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$3,098",
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$10 per month (if offset linked)",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$0"
+      },
+      "pros": [
+        "Manage loan entirely in the ANZ Plus app.",
+        "Optional offset may reduce interest (monthly offset fee applies).",
+        "Borrow from $10,000 up to $2,000,000."
+      ],
+      "cons": [
+        "Offset feature costs $10 per month when linked.",
+        "Not available for Tasmania or Northern Territory refinance."
+      ]
+    },
+    "imb-budget-home-loan": {
+      "sourceUrl": "https://www.imb.com.au/home-loans/living-in/budget-home-loan",
+      "interestRate": "6.04%",
+      "comparisonRate": "6.07%",
+      "interestRateType": "Variable",
+      "rewardPoints": "No",
+      "applicationFee": "$449",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$3,014",
+      "fees": {
+        "Application Fee": "$449",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "Life-of-loan discount off IMB standard variable rate.",
+        "No ongoing monthly fees.",
+        "Cashback offers may apply for eligible borrowers (T&Cs)."
+      ],
+      "cons": [
+        "Application fee applies.",
+        "No offset account on Budget product."
+      ]
+    },
+    "g%26c-mutual-bank-fixed-rate-home-loan": {
+      "sourceUrl": "https://www.gcmutual.bank/products/home-loans/fixed-rate-home-loan-owner-occupied",
+      "interestRate": "6.10%",
+      "comparisonRate": "6.18%",
+      "interestRateType": "Fixed",
+      "rewardPoints": "Yes",
+      "applicationFee": "$500",
+      "ongoingFee": "$0 p.a.",
+      "loanFee": "$3,045",
+      "fees": {
+        "Application Fee": "$500",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "pros": [
+        "Rate certainty for fixed term (shown: 3-year P&I).",
+        "Extra repayments up to $10,000 per annum.",
+        "Redraw available."
+      ],
+      "cons": [
+        "Establishment fee of $500 applies.",
+        "Cannot top up during fixed period."
+      ]
+    }
+  }
+}

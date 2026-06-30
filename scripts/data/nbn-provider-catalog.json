@@ -1,0 +1,642 @@
+{
+  "generatedAt": "2026-06-04T07:13:25.711Z",
+  "companies": {
+    "Tangerine": {
+      "nbnPlansUrl": "https://www.tangerine.com.au/broadband"
+    },
+    "Superloop": {
+      "nbnPlansUrl": "https://www.superloop.com/nbn/"
+    },
+    "Elevate": {
+      "nbnPlansUrl": "https://www.elevateinternet.com.au/"
+    },
+    "amaysim": {
+      "nbnPlansUrl": "https://www.amaysim.com.au/broadband"
+    },
+    "Exetel": {
+      "nbnPlansUrl": "https://www.exetel.com.au/nbn"
+    },
+    "AGL": {
+      "nbnPlansUrl": "https://www.agl.com.au/energy/internet/nbn-plans"
+    },
+    "Kogan": {
+      "nbnPlansUrl": "https://www.koganinternet.com.au/plans/"
+    },
+    "Buddy Telco": {
+      "nbnPlansUrl": "https://www.buddytelco.com.au/"
+    },
+    "TPG": {
+      "nbnPlansUrl": "https://www.tpg.com.au/nbn"
+    },
+    "Optus": {
+      "nbnPlansUrl": "https://www.optus.com.au/broadband-internet"
+    },
+    "iiNet": {
+      "nbnPlansUrl": "https://www.iinet.net.au/nbn/"
+    },
+    "iPrimus": {
+      "nbnPlansUrl": "https://www.iprimus.com.au/internet"
+    },
+    "Belong": {
+      "nbnPlansUrl": "https://www.belong.com.au/internet"
+    },
+    "Southern Phone": {
+      "nbnPlansUrl": "https://www.southernphone.com.au/internet"
+    },
+    "Dodo": {
+      "nbnPlansUrl": "https://www.dodo.com/nbn"
+    }
+  },
+  "plans": [
+    {
+      "slug": "tangerine-nbn-value-plus",
+      "company": "Tangerine",
+      "utilityChoiceName": "Tangerine NBN Value Plus",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/tangerine-nbn-value-plus",
+      "providerPlanName": "Tangerine  Value Plus",
+      "speedTier": 50,
+      "keywords": [
+        "Tangerine NBN Value Plus"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "superloop-nbn-lightspeed",
+      "company": "Superloop",
+      "utilityChoiceName": "Superloop NBN Lightspeed",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/superloop-nbn-lightspeed",
+      "providerPlanName": "Superloop  Lightspeed",
+      "speedTier": 860,
+      "keywords": [
+        "Superloop NBN Lightspeed",
+        "Lightspeed"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "superloop-nbn-everyday",
+      "company": "Superloop",
+      "utilityChoiceName": "Superloop NBN Everyday",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/superloop-nbn-everyday",
+      "providerPlanName": "Superloop  Everyday",
+      "speedTier": 25,
+      "keywords": [
+        "Superloop NBN Everyday"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "superloop-nbn-power-home",
+      "company": "Superloop",
+      "utilityChoiceName": "Superloop NBN Power Home",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/superloop-nbn-power-home",
+      "providerPlanName": "Superloop  Power Home",
+      "speedTier": 100,
+      "keywords": [
+        "Superloop NBN Power Home"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "superloop-nbn-superfast",
+      "company": "Superloop",
+      "utilityChoiceName": "Superloop NBN Superfast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/superloop-nbn-superfast",
+      "providerPlanName": "Superloop  Superfast",
+      "speedTier": 250,
+      "keywords": [
+        "Superloop NBN Superfast"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "elevate-nbn-the-25",
+      "company": "Elevate",
+      "utilityChoiceName": "Elevate NBN The 25",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/elevate-nbn-the-25",
+      "providerPlanName": "Elevate  The 25",
+      "speedTier": null,
+      "keywords": [
+        "Elevate NBN The 25"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "superloop-nbn-extra-value",
+      "company": "Superloop",
+      "utilityChoiceName": "Superloop NBN Extra-value",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/superloop-nbn-extra-value",
+      "providerPlanName": "Superloop  Extra-value",
+      "speedTier": 50,
+      "keywords": [
+        "Superloop NBN Extra-value"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "superloop-nbn-family",
+      "company": "Superloop",
+      "utilityChoiceName": "Superloop NBN Family",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/superloop-nbn-family",
+      "providerPlanName": "Superloop  Family",
+      "speedTier": 100,
+      "keywords": [
+        "Superloop NBN Family",
+        "Family"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "amaysim-nbn-quick-as",
+      "company": "amaysim",
+      "utilityChoiceName": "amaysim NBN Quick As",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/amaysim-nbn-quick-as",
+      "providerPlanName": "amaysim  Quick As",
+      "speedTier": 25,
+      "keywords": [
+        "amaysim NBN Quick As"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "amaysim-nbn-superfast-as-finder-exclusive",
+      "company": "amaysim",
+      "utilityChoiceName": "amaysim NBN Superfast As Finder Exclusive",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/amaysim-nbn-superfast-as-finder-exclusive",
+      "providerPlanName": "amaysim  Superfast As Finder Exclusive",
+      "speedTier": 245,
+      "keywords": [
+        "amaysim NBN Superfast As Finder Exclusive"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "amaysim-nbn-fast-as",
+      "company": "amaysim",
+      "utilityChoiceName": "amaysim NBN Fast As",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/amaysim-nbn-fast-as",
+      "providerPlanName": "amaysim  Fast As",
+      "speedTier": 100,
+      "keywords": [
+        "amaysim NBN Fast As"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "amaysim-nbn-speedy-as-finder-exclusive",
+      "company": "amaysim",
+      "utilityChoiceName": "amaysim NBN Speedy As Finder Exclusive",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/-amaysim-nbn-speedy-as-finder-exclusive",
+      "providerPlanName": "amaysim  Speedy As Finder Exclusive",
+      "speedTier": 50,
+      "keywords": [
+        "amaysim NBN Speedy As Finder Exclusive"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "exetel-nbn-superfast",
+      "company": "Exetel",
+      "utilityChoiceName": "Exetel NBN Superfast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/exetel-nbn-superfast",
+      "providerPlanName": "Exetel  Superfast",
+      "speedTier": 220,
+      "keywords": [
+        "Exetel NBN Superfast"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "exetel-nbn-everyday",
+      "company": "Exetel",
+      "utilityChoiceName": "Exetel NBN Everyday",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/exetel-nbn-everyday",
+      "providerPlanName": "Exetel  Everyday",
+      "speedTier": 25,
+      "keywords": [
+        "Exetel NBN Everyday"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "exetel-nbn-power-home",
+      "company": "Exetel",
+      "utilityChoiceName": "Exetel NBN Power Home",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/exetel-nbn-power-home",
+      "providerPlanName": "Exetel  Power Home",
+      "speedTier": 100,
+      "keywords": [
+        "Exetel NBN Power Home"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "exetel-nbn-family",
+      "company": "Exetel",
+      "utilityChoiceName": "Exetel NBN Family",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/exetel-nbn-family",
+      "providerPlanName": "Exetel  Family",
+      "speedTier": 100,
+      "keywords": [
+        "Exetel NBN Family",
+        "Family"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "exetel-nbn-extra-value",
+      "company": "Exetel",
+      "utilityChoiceName": "Exetel NBN Extra Value",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/exetel-nbn-extra-value",
+      "providerPlanName": "Exetel  Extra Value",
+      "speedTier": 50,
+      "keywords": [
+        "Exetel NBN Extra Value"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "agl-nbn-home-ultrafast",
+      "company": "AGL",
+      "utilityChoiceName": "AGL NBN Home Ultrafast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/agl-nbn-home-ultrafast",
+      "providerPlanName": "AGL  Home Ultrafast",
+      "speedTier": 860,
+      "keywords": [
+        "AGL NBN Home Ultrafast",
+        "Ultrafast",
+        "1000"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "agl-nbn-home-standard",
+      "company": "AGL",
+      "utilityChoiceName": "AGL NBN Home Standard",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/agl-nbn-home-standard",
+      "providerPlanName": "AGL  Home Standard",
+      "speedTier": 50,
+      "keywords": [
+        "AGL NBN Home Standard"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "agl-nbn-home-fast-plus",
+      "company": "AGL",
+      "utilityChoiceName": "AGL NBN Home Fast Plus",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/agl-nbn-home-fast-plus",
+      "providerPlanName": "AGL  Home Fast Plus",
+      "speedTier": 100,
+      "keywords": [
+        "AGL NBN Home Fast Plus"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "agl-nbn-home-basic",
+      "company": "AGL",
+      "utilityChoiceName": "AGL NBN Home Basic",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/-agl-nbn-home-basic",
+      "providerPlanName": "AGL  Home Basic",
+      "speedTier": 25,
+      "keywords": [
+        "AGL NBN Home Basic"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "kogan-nbn-bronze",
+      "company": "Kogan",
+      "utilityChoiceName": "Kogan NBN Bronze",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/kogan-nbn-bronze",
+      "providerPlanName": "Bronze nbn 25",
+      "speedTier": 25,
+      "keywords": [
+        "Kogan NBN Bronze"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "buddy-telco-nbn-standard",
+      "company": "Buddy Telco",
+      "utilityChoiceName": "Buddy Telco NBN Standard",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/buddy-telco-nbn-standard",
+      "providerPlanName": "Buddy Telco  Standard",
+      "speedTier": 24,
+      "keywords": [
+        "Buddy Telco NBN Standard"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "tpg-nbn25",
+      "company": "TPG",
+      "utilityChoiceName": "TPG NBN25",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/tpg-nbn25",
+      "providerPlanName": "TPG 25",
+      "speedTier": 25,
+      "keywords": [
+        "TPG NBN25",
+        "NBN25",
+        "25"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "optus-plus-everyday-basic-nbn",
+      "company": "Optus",
+      "utilityChoiceName": "Optus Plus Everyday Basic nbn®",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/optus-plus-everyday-basic-nbn%C2%AE",
+      "providerPlanName": "Optus Plus Everyday Basic",
+      "speedTier": 25,
+      "keywords": [
+        "Optus Plus Everyday Basic nbn®"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "optus-plus-family-entertainer-ultrafast-nbn",
+      "company": "Optus",
+      "utilityChoiceName": "Optus Plus Family Entertainer Ultrafast nbn®",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/optus-plus-family-entertainer-ultrafast-nbn%C2%AE",
+      "providerPlanName": "Optus Plus Family Entertainer Ultrafast",
+      "speedTier": 780,
+      "keywords": [
+        "Optus Plus Family Entertainer Ultrafast nbn®",
+        "Ultrafast",
+        "1000",
+        "Family"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "kogan-nbn-platinum",
+      "company": "Kogan",
+      "utilityChoiceName": "Kogan NBN Platinum",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/kogan-nbn-platinum",
+      "providerPlanName": "Platinum nbn 250",
+      "speedTier": 250,
+      "keywords": [
+        "Kogan NBN Platinum"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "optus-plus-everyday-ultrafast-nbn",
+      "company": "Optus",
+      "utilityChoiceName": "Optus Plus Everyday Ultrafast nbn®",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/optus-plus-everyday-ultrafast-nbn%C2%AE",
+      "providerPlanName": "Optus Plus Everyday Ultrafast",
+      "speedTier": 780,
+      "keywords": [
+        "Optus Plus Everyday Ultrafast nbn®",
+        "Ultrafast",
+        "1000"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "agl-nbn-home-superfast",
+      "company": "AGL",
+      "utilityChoiceName": "AGL NBN Home Superfast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/agl-nbn-home-superfast",
+      "providerPlanName": "AGL  Home Superfast",
+      "speedTier": 250,
+      "keywords": [
+        "AGL NBN Home Superfast"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "optus-plus-family-entertainer-fast-nbn",
+      "company": "Optus",
+      "utilityChoiceName": "Optus Plus Family Entertainer Fast nbn®",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/optus-plus-family-entertainer-fast-nbn%C2%AE",
+      "providerPlanName": "Optus Plus Family Entertainer Fast",
+      "speedTier": 100,
+      "keywords": [
+        "Optus Plus Family Entertainer Fast nbn®",
+        "Family"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "iinet-nbn1000-ultrafast",
+      "company": "iiNet",
+      "utilityChoiceName": "iiNet NBN1000 Ultrafast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/iinet-nbn1000-ultrafast",
+      "providerPlanName": "iiNet 1000 Ultrafast",
+      "speedTier": 800,
+      "keywords": [
+        "iiNet NBN1000 Ultrafast",
+        "Ultrafast",
+        "1000"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "tangerine-nbn-ultraspeedy",
+      "company": "Tangerine",
+      "utilityChoiceName": "Tangerine NBN UltraSpeedy",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/tangerine-nbn-ultraspeedy-",
+      "providerPlanName": "Tangerine  UltraSpeedy",
+      "speedTier": 700,
+      "keywords": [
+        "Tangerine NBN UltraSpeedy"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "tpg-nbn-home-ultrafast",
+      "company": "TPG",
+      "utilityChoiceName": "TPG NBN Home Ultrafast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/tpg-nbn-home-ultrafast-",
+      "providerPlanName": "TPG  Home Ultrafast",
+      "speedTier": 800,
+      "keywords": [
+        "TPG NBN Home Ultrafast",
+        "Ultrafast",
+        "1000"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "optus-plus-family-entertainer-nbn",
+      "company": "Optus",
+      "utilityChoiceName": "Optus Plus Family Entertainer nbn®",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/optus-plus-family-entertainer-nbn%C2%AE",
+      "providerPlanName": "Optus Plus Family Entertainer",
+      "speedTier": 50,
+      "keywords": [
+        "Optus Plus Family Entertainer nbn®",
+        "Family"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "iprimus-standard-plus-nbn",
+      "company": "iPrimus",
+      "utilityChoiceName": "iPrimus Standard Plus NBN",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/iprimus-standard-plus-nbn",
+      "providerPlanName": "Standard Plus 25",
+      "speedTier": 25,
+      "keywords": [
+        "iPrimus Standard Plus NBN"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "tangerine-nbn-superspeedy",
+      "company": "Tangerine",
+      "utilityChoiceName": "Tangerine NBN SuperSpeedy",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/tangerine-nbn-superspeedy",
+      "providerPlanName": "Tangerine  SuperSpeedy",
+      "speedTier": 250,
+      "keywords": [
+        "Tangerine NBN SuperSpeedy"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "iprimus-standard-plus",
+      "company": "iPrimus",
+      "utilityChoiceName": "iPrimus Standard Plus",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/kogan-nbn-gold-",
+      "providerPlanName": "Standard Plus 50",
+      "speedTier": 50,
+      "keywords": [
+        "iPrimus Standard Plus"
+      ],
+      "providerSnapshot": {
+        "planInfo": {
+          "Connection Type": "NBN",
+          "Typical download speed (Mbps)": "50",
+          "Typical upload speed (Mbps)": "17",
+          "Technology type": "FTTP FTTB FTTN FTTC HFC",
+          "Plan length": "Month-to-month",
+          "Maximum upload speed (Mbps)": "20",
+          "Maximum download speed (Mbps)": "50",
+          "Data Allowance": "Unlimited Data",
+          "Plan type": "N/A"
+        },
+        "cost": {
+          "Promotional Cost": "N/A",
+          "Minimum cost": "$264",
+          "Setup fee": "$0",
+          "Modem description": "$0 modem if you stay connected for 18 months",
+          "Modem T&Cs": "Modem cost is $180 but iPrimus will cover the cost for each month you stay connected (at $10 per month). If you leave before 18 months, you must pay out the remaining in full.",
+          "Ongoing cost": "$84",
+          "Modem delivery fee": "$0"
+        },
+        "bundles": {
+          "Home phone included": "No",
+          "Entertainment included": "No"
+        },
+        "sidebarDownloadMbps": "50",
+        "sidebarUploadMbps": "20"
+      }
+    },
+    {
+      "slug": "kogan-nbn-gold",
+      "company": "Kogan",
+      "utilityChoiceName": "Kogan NBN Gold",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/kogan-nbn-gold-",
+      "providerPlanName": "Gold nbn 100",
+      "speedTier": 100,
+      "keywords": [
+        "Kogan NBN Gold"
+      ],
+      "providerSnapshot": {
+        "planInfo": {
+          "Connection Type": "NBN",
+          "Typical download speed (Mbps)": "100",
+          "Typical upload speed (Mbps)": "17",
+          "Technology type": "FTTP FTTB FTTN FTTC HFC",
+          "Plan length": "Month-to-month",
+          "Maximum upload speed (Mbps)": "20",
+          "Maximum download speed (Mbps)": "100",
+          "Data Allowance": "Unlimited Data",
+          "Plan type": "N/A"
+        },
+        "cost": {
+          "Promotional Cost": "$65.90",
+          "Minimum cost": "$65.90",
+          "Setup fee": "$0",
+          "Modem description": "BYO modem",
+          "Modem T&Cs": "N/A",
+          "Ongoing cost": "$83.90",
+          "Modem delivery fee": "$0"
+        },
+        "bundles": {
+          "Home phone included": "No",
+          "Entertainment included": "No"
+        },
+        "sidebarDownloadMbps": "100",
+        "sidebarUploadMbps": "20"
+      }
+    },
+    {
+      "slug": "belong-nbn-premium",
+      "company": "Belong",
+      "utilityChoiceName": "Belong NBN Premium",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/belong-nbn-premium",
+      "providerPlanName": "Belong  Premium",
+      "speedTier": 100,
+      "keywords": [
+        "Belong NBN Premium"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "tpg-nbn50",
+      "company": "TPG",
+      "utilityChoiceName": "TPG NBN50",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/tpg-nbn50",
+      "providerPlanName": "TPG 50",
+      "speedTier": 50,
+      "keywords": [
+        "TPG NBN50",
+        "NBN50",
+        "50"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "buddy-telco-nbn-speedy",
+      "company": "Buddy Telco",
+      "utilityChoiceName": "Buddy Telco NBN Speedy",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/buddy-telco-nbn-speedy",
+      "providerPlanName": "Buddy Telco  Speedy",
+      "speedTier": 99,
+      "keywords": [
+        "Buddy Telco NBN Speedy"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "southern-phone-nbn-fast",
+      "company": "Southern Phone",
+      "utilityChoiceName": "Southern Phone NBN Fast",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/southern-phone-nbn-fast",
+      "providerPlanName": "Southern Phone  Fast",
+      "speedTier": 99,
+      "keywords": [
+        "Southern Phone NBN Fast"
+      ],
+      "providerSnapshot": null
+    },
+    {
+      "slug": "dodo-nbn100",
+      "company": "Dodo",
+      "utilityChoiceName": "Dodo NBN100",
+      "utilityChoiceUrl": "https://www.utilitychoices.com.au/nbn/dodo-nbn100",
+      "providerPlanName": "Dodo 100",
+      "speedTier": 100,
+      "keywords": [
+        "Dodo NBN100"
+      ],
+      "providerSnapshot": null
+    }
+  ]
+}

@@ -1,0 +1,151 @@
+'use client';
+
+import { cn } from '@/lib/cn';
+
+interface SolarHeroIllustrationProps {
+  className?: string;
+}
+
+/**
+ * Wix LottieEmbed (comp-m6rk6ton) — leaf, teal ring, plug, centre bolt.
+ * Layer order and paths match utilitychoices.com.au / reference artwork.
+ */
+export function SolarHeroIllustration({
+  className,
+}: SolarHeroIllustrationProps) {
+  return (
+    <div
+      className={cn(
+        'solar-hero-lottie relative aspect-square w-full max-w-[280px] sm:max-w-[320px] md:max-w-[380px]',
+        className
+      )}
+      aria-hidden
+    >
+      <svg
+        viewBox="0 0 500 500"
+        preserveAspectRatio="xMidYMid meet"
+        className="solar-hero-lottie__animation size-full"
+      >
+        <defs>
+          <clipPath id="solar-hero-clip">
+            <rect width="500" height="500" />
+          </clipPath>
+        </defs>
+
+        <g clipPath="url(#solar-hero-clip)">
+          {/* Fills: plug + two-tone leaf */}
+          <g transform="translate(72.155 84.129)">
+            <g transform="translate(301.485 129.967)">
+              <path
+                fill="#FBC95B"
+                d="M47.861,-47.861 C47.861,-47.861 47.861,0 47.861,0 C47.861,26.433 26.432,47.861 0,47.861 C-26.433,47.861 -47.861,26.433 -47.861,0 C-47.861,0 -47.861,-47.861 -47.861,-47.861 C-47.861,-47.861 47.861,-47.861 47.861,-47.861z"
+              />
+            </g>
+            <g transform="translate(301.485 100.074)">
+              <path
+                fill="#FA8E25"
+                d="M-47.861,-17.967 C-47.861,-17.967 47.861,-17.967 47.861,-17.967 C47.861,-17.967 47.861,17.967 47.861,17.967 C47.861,17.967 -47.861,17.967 -47.861,17.967 C-47.861,17.967 -47.861,-17.967 -47.861,-17.967z"
+              />
+            </g>
+            <g transform="translate(77.783 77.783)">
+              <path
+                fill="#B1D65B"
+                d="M31.822,-88.532 C-5.813,-90.179 -43.278,-72.271 -65.007,-38.235 C-86.737,-4.198 -87.214,37.323 -69.88,70.77 C-32.245,72.416 5.22,54.508 26.95,20.472 C48.679,-13.564 49.156,-55.086 31.822,-88.532z"
+              />
+            </g>
+            <g transform="translate(42.224 81.477)">
+              <path
+                fill="#91B425"
+                d="M0.192,-8.353 C-5.21,-32.828 -1.693,-57.19 8.564,-78.059 C-6.387,-69.572 -19.552,-57.43 -29.449,-41.929 C-51.178,-7.892 -51.655,33.629 -34.321,67.076 C-10.57,68.115 13.109,61.359 32.812,47.682 C16.905,33.37 5.155,14.135 0.192,-8.353z"
+              />
+            </g>
+          </g>
+
+          {/* Teal ring + plug outline + prongs */}
+          <g transform="translate(32.406 44.379)">
+            <g transform="translate(118.388 118.099)">
+              <path
+                className="solar-hero-stroke-teal solar-hero-stroke-leaf"
+                fill="none"
+                stroke="#3ECBCA"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M31.223,-89.119 C-6.381,-90.381 -43.615,-72.114 -64.97,-37.901 C-86.325,-3.687 -86.38,37.786 -68.728,71.013 C-31.124,72.275 6.11,54.009 27.465,19.795 C48.82,-14.418 48.875,-55.892 31.223,-89.119z"
+              />
+            </g>
+            <g transform="translate(194.52 239.756)">
+              <path
+                className="solar-hero-stroke-teal solar-hero-stroke-arc"
+                fill="none"
+                stroke="#3ECBCA"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M147.57,-21.326 C147.416,60.043 81.406,125.959 0.001,125.959 C-81.5,125.959 -147.57,59.889 -147.57,-21.611 C-147.57,-32.742 -146.338,-43.584 -144.002,-54.01 C-137.787,-81.755 -123.759,-106.548 -104.348,-125.959"
+              />
+            </g>
+            <g transform="translate(342.089 170.284)">
+              <path
+                fill="none"
+                stroke="#101921"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M47.861,-47.861 C47.861,-47.861 47.861,0 47.861,0 C47.861,26.433 26.432,47.861 0,47.861 C0,47.861 0,47.861 0,47.861 C-26.433,47.861 -47.861,26.433 -47.861,0 C-47.861,0 -47.861,-47.861 -47.861,-47.861 C-47.861,-47.861 47.861,-47.861 47.861,-47.861z"
+              />
+            </g>
+            <g transform="translate(0.855 0.566)">
+              <path
+                fill="none"
+                stroke="#101921"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M366.759,120.853 C366.759,120.853 366.759,86.759 366.759,86.759"
+              />
+              <path
+                fill="none"
+                stroke="#101921"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M315.708,120.853 C315.708,120.853 315.708,86.759 315.708,86.759"
+              />
+            </g>
+          </g>
+
+          {/* Bottom teal arc (completes the ring) */}
+          <g transform="translate(39.5 117.609)">
+            <g transform="translate(187.57 165.959)">
+              <path
+                className="solar-hero-stroke-teal solar-hero-stroke-arc-bottom"
+                fill="none"
+                stroke="#3ECBCA"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M-46.271,118.659 C-105.088,99.339 -147.57,43.84 -147.57,-21.611 C-147.57,-32.742 -146.34,-43.584 -144.012,-54.01 C-137.816,-81.755 -123.831,-106.548 -104.478,-125.959"
+              />
+            </g>
+          </g>
+
+          {/* Centre lightning bolt (on top) */}
+          <g transform="translate(154.348 187.869)">
+            <g transform="translate(71.722 95.699)">
+              <path
+                className="solar-hero-bolt"
+                fill="none"
+                stroke="#101921"
+                strokeWidth={16}
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                d="M14.037,-55.699 C14.037,-55.699 -31.722,0 -31.722,0 C-31.722,0 31.722,0 31.722,0 C31.722,0 -14.036,55.699 -14.036,55.699"
+              />
+            </g>
+          </g>
+        </g>
+      </svg>
+    </div>
+  );
+}

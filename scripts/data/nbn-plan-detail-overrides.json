@@ -1,0 +1,142 @@
+{
+  "kogan-nbn-gold": {
+    "planInfo": {
+      "Connection Type": "NBN",
+      "Typical download speed (Mbps)": "100",
+      "Typical upload speed (Mbps)": "17",
+      "Technology type": "FTTP FTTB FTTN FTTC HFC",
+      "Plan length": "Month-to-month",
+      "Maximum upload speed (Mbps)": "20",
+      "Maximum download speed (Mbps)": "100",
+      "Data Allowance": "Unlimited Data",
+      "Plan type": "N/A"
+    },
+    "cost": {
+      "Promotional Cost": "$65.90",
+      "Minimum cost": "$65.90",
+      "Setup fee": "$0",
+      "Modem description": "BYO modem",
+      "Modem T&Cs": "N/A",
+      "Ongoing cost": "$83.90",
+      "Modem delivery fee": "$0"
+    },
+    "bundles": {
+      "Home phone included": "No",
+      "Entertainment included": "No"
+    },
+    "sidebarDownloadMbps": "100",
+    "sidebarUploadMbps": "20"
+  },
+  "kogan-nbn-bronze": {
+    "planInfo": {
+      "Connection Type": "NBN",
+      "Typical download speed (Mbps)": "25",
+      "Typical upload speed (Mbps)": "8",
+      "Technology type": "FTTP FTTB FTTN FTTC HFC",
+      "Plan length": "Month-to-month",
+      "Maximum upload speed (Mbps)": "10",
+      "Maximum download speed (Mbps)": "25",
+      "Data Allowance": "Unlimited Data",
+      "Plan type": "N/A"
+    },
+    "cost": {
+      "Promotional Cost": "$46.90",
+      "Minimum cost": "$46.90",
+      "Setup fee": "$0",
+      "Modem description": "BYO modem",
+      "Modem T&Cs": "N/A",
+      "Ongoing cost": "$68.90",
+      "Modem delivery fee": "$0"
+    },
+    "bundles": {
+      "Home phone included": "No",
+      "Entertainment included": "No"
+    },
+    "sidebarDownloadMbps": "25",
+    "sidebarUploadMbps": "10"
+  },
+  "kogan-nbn-platinum": {
+    "planInfo": {
+      "Connection Type": "NBN",
+      "Typical download speed (Mbps)": "250",
+      "Typical upload speed (Mbps)": "21",
+      "Technology type": "FTTP FTTB FTTN FTTC HFC",
+      "Plan length": "Month-to-month",
+      "Maximum upload speed (Mbps)": "25",
+      "Maximum download speed (Mbps)": "250",
+      "Data Allowance": "Unlimited Data",
+      "Plan type": "N/A"
+    },
+    "cost": {
+      "Promotional Cost": "$84.90",
+      "Minimum cost": "$84.90",
+      "Setup fee": "$0",
+      "Modem description": "BYO modem",
+      "Modem T&Cs": "N/A",
+      "Ongoing cost": "$94.90",
+      "Modem delivery fee": "$0"
+    },
+    "bundles": {
+      "Home phone included": "No",
+      "Entertainment included": "No"
+    },
+    "sidebarDownloadMbps": "250",
+    "sidebarUploadMbps": "25"
+  },
+  "iprimus-standard-plus-nbn": {
+    "planInfo": {
+      "Connection Type": "NBN",
+      "Typical download speed (Mbps)": "25",
+      "Typical upload speed (Mbps)": "4",
+      "Technology type": "FTTP FTTB FTTN FTTC HFC",
+      "Plan length": "Month-to-month",
+      "Maximum upload speed (Mbps)": "5",
+      "Maximum download speed (Mbps)": "25",
+      "Data Allowance": "Unlimited Data",
+      "Plan type": "N/A"
+    },
+    "cost": {
+      "Promotional Cost": "$61.99",
+      "Minimum cost": "$61.99",
+      "Setup fee": "$0",
+      "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+      "Modem T&Cs": "Return within 21 days of cancelling and modem is free of charge. Otherwise pay $8 per month remaining if you leave before 24 months.",
+      "Ongoing cost": "$76.99",
+      "Modem delivery fee": "$10"
+    },
+    "bundles": {
+      "Home phone included": "No",
+      "Entertainment included": "No"
+    },
+    "sidebarDownloadMbps": "25",
+    "sidebarUploadMbps": "5"
+  },
+  "iprimus-standard-plus": {
+    "planInfo": {
+      "Connection Type": "NBN",
+      "Typical download speed (Mbps)": "50",
+      "Typical upload speed (Mbps)": "17",
+      "Technology type": "FTTP FTTB FTTN FTTC HFC",
+      "Plan length": "Month-to-month",
+      "Maximum upload speed (Mbps)": "20",
+      "Maximum download speed (Mbps)": "50",
+      "Data Allowance": "Unlimited Data",
+      "Plan type": "N/A"
+    },
+    "cost": {
+      "Promotional Cost": "N/A",
+      "Minimum cost": "$264",
+      "Setup fee": "$0",
+      "Modem description": "$0 modem if you stay connected for 18 months",
+      "Modem T&Cs": "Modem cost is $180 but iPrimus will cover the cost for each month you stay connected (at $10 per month). If you leave before 18 months, you must pay out the remaining in full.",
+      "Ongoing cost": "$84",
+      "Modem delivery fee": "$0"
+    },
+    "bundles": {
+      "Home phone included": "No",
+      "Entertainment included": "No"
+    },
+    "sidebarDownloadMbps": "50",
+    "sidebarUploadMbps": "20"
+  }
+}

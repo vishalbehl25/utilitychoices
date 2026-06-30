@@ -1,0 +1,1337 @@
+{
+  "scrapedAt": "2026-06-04T07:15:25.043Z",
+  "plans": {
+    "tangerine-nbn-value-plus": {
+      "slug": "tangerine-nbn-value-plus",
+      "name": "Tangerine NBN Value Plus",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$59.90",
+        "Minimum cost": "$59.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase from $169.90",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$82.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "superloop-nbn-lightspeed": {
+      "slug": "superloop-nbn-lightspeed",
+      "name": "Superloop NBN Lightspeed",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "860",
+        "Typical upload speed (Mbps)": "42",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$99",
+        "Minimum cost": "$99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+        "Modem T&Cs": "$0 modem included with this plan, or choose to BYO modem or purchase one for $170.",
+        "Ongoing cost": "$109",
+        "Modem delivery fee": "$20"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "superloop-nbn-everyday": {
+      "slug": "superloop-nbn-everyday",
+      "name": "Superloop NBN Everyday",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "25",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "10",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$59",
+        "Minimum cost": "$59",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$69",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "10"
+    },
+    "superloop-nbn-power-home": {
+      "slug": "superloop-nbn-power-home",
+      "name": "Superloop NBN Power Home",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "34",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "40",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$79",
+        "Minimum cost": "$79",
+        "Setup fee": "$79",
+        "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+        "Modem T&Cs": "$0 modem included with this plan, or choose to BYO modem or purchase one for $170.",
+        "Ongoing cost": "$95",
+        "Modem delivery fee": "$20"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "40"
+    },
+    "superloop-nbn-superfast": {
+      "slug": "superloop-nbn-superfast",
+      "name": "Superloop NBN Superfast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "250",
+        "Typical upload speed (Mbps)": "21",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "25",
+        "Maximum download speed (Mbps)": "250",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$85",
+        "Minimum cost": "$85",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+        "Modem T&Cs": "$0 modem included with this plan, or choose to BYO modem or purchase one for $170.",
+        "Ongoing cost": "$99",
+        "Modem delivery fee": "$20"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "250",
+      "sidebarUploadMbps": "25"
+    },
+    "elevate-nbn-the-25": {
+      "slug": "elevate-nbn-the-25",
+      "name": "Elevate NBN The 25",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "N/A",
+        "Typical upload speed (Mbps)": "N/A",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "5",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$50",
+        "Setup fee": "$0",
+        "Modem description": "BYO or purchase for $160",
+        "Modem T&Cs": "BYO or purchase a TP-Link Deco X20 with Elevate.",
+        "Ongoing cost": "$50",
+        "Modem delivery fee": "$20"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "5"
+    },
+    "superloop-nbn-extra-value": {
+      "slug": "superloop-nbn-extra-value",
+      "name": "Superloop NBN Extra-value",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$67",
+        "Minimum cost": "$67",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$81",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "superloop-nbn-family": {
+      "slug": "superloop-nbn-family",
+      "name": "Superloop NBN Family",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$75",
+        "Minimum cost": "$75",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+        "Modem T&Cs": "$0 modem included with this plan, or choose to BYO modem or purchase one for $170.",
+        "Ongoing cost": "$89",
+        "Modem delivery fee": "$20"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "amaysim-nbn-quick-as": {
+      "slug": "amaysim-nbn-quick-as",
+      "name": "amaysim NBN Quick As",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "8",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "10",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$60",
+        "Minimum cost": "$60",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$70",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "10"
+    },
+    "amaysim-nbn-superfast-as-finder-exclusive": {
+      "slug": "amaysim-nbn-superfast-as-finder-exclusive",
+      "name": "amaysim NBN Superfast As Finder Exclusive",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "245",
+        "Typical upload speed (Mbps)": "22",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "25",
+        "Maximum download speed (Mbps)": "250",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$80",
+        "Minimum cost": "$80",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$100",
+        "Modem delivery fee": "No"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "250",
+      "sidebarUploadMbps": "25"
+    },
+    "amaysim-nbn-fast-as": {
+      "slug": "amaysim-nbn-fast-as",
+      "name": "amaysim NBN Fast As",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "18",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$80",
+        "Minimum cost": "$80",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "amaysim-nbn-speedy-as-finder-exclusive": {
+      "slug": "amaysim-nbn-speedy-as-finder-exclusive",
+      "name": "amaysim NBN Speedy As Finder Exclusive",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "18",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$65",
+        "Minimum cost": "$65",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$85",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "exetel-nbn-superfast": {
+      "slug": "exetel-nbn-superfast",
+      "name": "Exetel NBN Superfast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "220",
+        "Typical upload speed (Mbps)": "21",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "25",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$80.99",
+        "Minimum cost": "$80.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$98.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "25"
+    },
+    "exetel-nbn-everyday": {
+      "slug": "exetel-nbn-everyday",
+      "name": "Exetel NBN Everyday",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "8.5",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "10",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$50.99",
+        "Minimum cost": "$50.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$63.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "10"
+    },
+    "exetel-nbn-power-home": {
+      "slug": "exetel-nbn-power-home",
+      "name": "Exetel NBN Power Home",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "34",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "40",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$75.99",
+        "Minimum cost": "$75.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$94.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "40"
+    },
+    "exetel-nbn-family": {
+      "slug": "exetel-nbn-family",
+      "name": "Exetel NBN Family",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$65.99",
+        "Minimum cost": "$65.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$84.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "exetel-nbn-extra-value": {
+      "slug": "exetel-nbn-extra-value",
+      "name": "Exetel NBN Extra Value",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$60.99",
+        "Minimum cost": "$60.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $170",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$79.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "agl-nbn-home-ultrafast": {
+      "slug": "agl-nbn-home-ultrafast",
+      "name": "AGL NBN Home Ultrafast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "860",
+        "Typical upload speed (Mbps)": "43",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$124",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $210",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$124",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "agl-nbn-home-standard": {
+      "slug": "agl-nbn-home-standard",
+      "name": "AGL NBN Home Standard",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "18",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$94",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $210",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$94",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "agl-nbn-home-fast-plus": {
+      "slug": "agl-nbn-home-fast-plus",
+      "name": "AGL NBN Home Fast Plus",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "34",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "40",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$104",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $210",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$104",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "40"
+    },
+    "agl-nbn-home-basic": {
+      "slug": "agl-nbn-home-basic",
+      "name": "AGL NBN Home Basic",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "8",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "10",
+        "Maximum download speed (Mbps)": "10",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$74",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $210",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$74",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "10",
+      "sidebarUploadMbps": "10"
+    },
+    "kogan-nbn-bronze": {
+      "slug": "kogan-nbn-bronze",
+      "name": "Kogan NBN Bronze",
+      "sourceUrl": "override",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "8",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "10",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$46.90",
+        "Minimum cost": "$46.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$68.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "10"
+    },
+    "buddy-telco-nbn-standard": {
+      "slug": "buddy-telco-nbn-standard",
+      "name": "Buddy Telco NBN Standard",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "24",
+        "Typical upload speed (Mbps)": "8",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "10",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$53",
+        "Minimum cost": "$53",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$65",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "10"
+    },
+    "tpg-nbn25": {
+      "slug": "tpg-nbn25",
+      "name": "TPG NBN25",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "4",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "5",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$61.99",
+        "Minimum cost": "$61.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $114.95",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$76.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "5"
+    },
+    "optus-plus-everyday-basic-nbn": {
+      "slug": "optus-plus-everyday-basic-nbn",
+      "name": "Optus Plus Everyday Basic nbn®",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "8",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "8",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$381",
+        "Setup fee": "$0",
+        "Modem description": "Optus Ultra WiFi Gen 2 Modem with 4G backup, 4G speeds limited to 25/2Mbps",
+        "Modem T&Cs": "Optus Ultra WiFi Modem - Optus will cover the modem cost for each month you stay connected (at $8.50/mth). If you stay connected for 36 months, you will pay $0 for the modem. If you leave early, you must pay $8.50/mth for every month remaining in full.",
+        "Ongoing cost": "$75",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "8"
+    },
+    "optus-plus-family-entertainer-ultrafast-nbn": {
+      "slug": "optus-plus-family-entertainer-ultrafast-nbn",
+      "name": "Optus Plus Family Entertainer Ultrafast nbn®",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "780",
+        "Typical upload speed (Mbps)": "40",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$130",
+        "Minimum cost": "$652",
+        "Setup fee": "$0",
+        "Modem description": "Optus Ultra WiFi Modem Gen 2 and first Optus WiFi Booster Gen 2 included for $0 if you stay connected for 36 mths",
+        "Modem T&Cs": "Optus will cover the modem ($306) and booster ($216) cost for each month you stay connected (at $8.50/mth modem & $6/mth booster). If you stay connected for 36 months, you will pay $0 for the modem and $0 for your first booster. If you leave early, you must pay the combined modem and booster costs (ie. $14.50/mth for every month remaining) in full.",
+        "Ongoing cost": "$150",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "$0",
+        "Entertainment included": "Yes"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "kogan-nbn-platinum": {
+      "slug": "kogan-nbn-platinum",
+      "name": "Kogan NBN Platinum",
+      "sourceUrl": "override",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "250",
+        "Typical upload speed (Mbps)": "21",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "25",
+        "Maximum download speed (Mbps)": "250",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$84.90",
+        "Minimum cost": "$84.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$94.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "250",
+      "sidebarUploadMbps": "25"
+    },
+    "optus-plus-everyday-ultrafast-nbn": {
+      "slug": "optus-plus-everyday-ultrafast-nbn",
+      "name": "Optus Plus Everyday Ultrafast nbn®",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "780",
+        "Typical upload speed (Mbps)": "40",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$109",
+        "Minimum cost": "$415",
+        "Setup fee": "$0",
+        "Modem description": "Optus Ultra WiFi Modem Gen 2 included for $0 if you stay connected for 36 mths",
+        "Modem T&Cs": "Optus will cover the modem cost for each month you stay connected (at $8.50/mth). If you stay connected for 36 months, you will pay $0 for the modem. If you leave early, you must pay $8.50/mth for every month remaining in full.",
+        "Ongoing cost": "$129",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "agl-nbn-home-superfast": {
+      "slug": "agl-nbn-home-superfast",
+      "name": "AGL NBN Home Superfast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "250",
+        "Typical upload speed (Mbps)": "23",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "25",
+        "Maximum download speed (Mbps)": "250",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$114",
+        "Minimum cost": "N/A",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $210",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$114",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "250",
+      "sidebarUploadMbps": "25"
+    },
+    "optus-plus-family-entertainer-fast-nbn": {
+      "slug": "optus-plus-family-entertainer-fast-nbn",
+      "name": "Optus Plus Family Entertainer Fast nbn®",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "18",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$110",
+        "Minimum cost": "$632",
+        "Setup fee": "$0",
+        "Modem description": "Optus Ultra WiFi Modem Gen 2 and first Optus WiFi Booster Gen 2 included for $0 if you stay connected for 36 mths",
+        "Modem T&Cs": "Optus will cover the modem ($306) and booster ($216) cost for each month you stay connected (at $8.50/mth modem & $6/mth booster). If you stay connected for 36 months, you will pay $0 for the modem and $0 for your first booster. If you leave early, you must pay the combined modem and booster costs (ie. $14.50/mth for every month remaining) in full.",
+        "Ongoing cost": "$120",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "Yes"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "iinet-nbn1000-ultrafast": {
+      "slug": "iinet-nbn1000-ultrafast",
+      "name": "iiNet NBN1000 Ultrafast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "800",
+        "Typical upload speed (Mbps)": "40",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$94.99",
+        "Minimum cost": "$94.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+        "Modem T&Cs": "Return within 21 days of cancelling and modem is free of charge. Otherwise pay $8 per month remaining if you leave before 24 months.",
+        "Ongoing cost": "$109.99",
+        "Modem delivery fee": "$10"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "tangerine-nbn-ultraspeedy": {
+      "slug": "tangerine-nbn-ultraspeedy",
+      "name": "Tangerine NBN UltraSpeedy",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "700",
+        "Typical upload speed (Mbps)": "42",
+        "Technology type": "FTTP FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$99.90",
+        "Minimum cost": "$99.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase from $169.90",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$124.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "tpg-nbn-home-ultrafast": {
+      "slug": "tpg-nbn-home-ultrafast",
+      "name": "TPG NBN Home Ultrafast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "800",
+        "Typical upload speed (Mbps)": "40",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "50",
+        "Maximum download speed (Mbps)": "1,000",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$94.99",
+        "Minimum cost": "$94.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $114.95",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$109.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "1,000",
+      "sidebarUploadMbps": "50"
+    },
+    "optus-plus-family-entertainer-nbn": {
+      "slug": "optus-plus-family-entertainer-nbn",
+      "name": "Optus Plus Family Entertainer nbn®",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "18",
+        "Technology type": "FTTP HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$632",
+        "Setup fee": "$0",
+        "Modem description": "Optus Ultra WiFi Modem Gen 2 and first Optus WiFi Booster Gen 2 included for $0 if you stay connected for 36 mths",
+        "Modem T&Cs": "Optus will cover the modem ($306) and booster ($216) cost for each month you stay connected (at $8.50/mth modem & $6/mth booster). If you stay connected for 36 months, you will pay $0 for the modem and $0 for your first booster. If you leave early, you must pay the combined modem and booster costs (ie. $14.50/mth for every month remaining) in full.",
+        "Ongoing cost": "$110",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "Yes"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "iprimus-standard-plus-nbn": {
+      "slug": "iprimus-standard-plus-nbn",
+      "name": "iPrimus Standard Plus NBN",
+      "sourceUrl": "override",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "25",
+        "Typical upload speed (Mbps)": "4",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "5",
+        "Maximum download speed (Mbps)": "25",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$61.99",
+        "Minimum cost": "$61.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or $0 modem if you stay connected for 24 months",
+        "Modem T&Cs": "Return within 21 days of cancelling and modem is free of charge. Otherwise pay $8 per month remaining if you leave before 24 months.",
+        "Ongoing cost": "$76.99",
+        "Modem delivery fee": "$10"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "25",
+      "sidebarUploadMbps": "5"
+    },
+    "tangerine-nbn-superspeedy": {
+      "slug": "tangerine-nbn-superspeedy",
+      "name": "Tangerine NBN SuperSpeedy",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "250",
+        "Typical upload speed (Mbps)": "21",
+        "Technology type": "FTTP FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "25",
+        "Maximum download speed (Mbps)": "250",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$84.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase from $169.90",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$104.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "250",
+      "sidebarUploadMbps": "25"
+    },
+    "iprimus-standard-plus": {
+      "slug": "iprimus-standard-plus",
+      "name": "iPrimus Standard Plus",
+      "sourceUrl": "override",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$264",
+        "Setup fee": "$0",
+        "Modem description": "$0 modem if you stay connected for 18 months",
+        "Modem T&Cs": "Modem cost is $180 but iPrimus will cover the cost for each month you stay connected (at $10 per month). If you leave before 18 months, you must pay out the remaining in full.",
+        "Ongoing cost": "$84",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "kogan-nbn-gold": {
+      "slug": "kogan-nbn-gold",
+      "name": "Kogan NBN Gold",
+      "sourceUrl": "override",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$65.90",
+        "Minimum cost": "$65.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$83.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "belong-nbn-premium": {
+      "slug": "belong-nbn-premium",
+      "name": "Belong NBN Premium",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$85",
+        "Minimum cost": "$85",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $132",
+        "Modem T&Cs": "Choice of BYO modem, pay $132 upfront for a modem or pay $11 per month for a modem over 12 months.",
+        "Ongoing cost": "$95",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "tpg-nbn50": {
+      "slug": "tpg-nbn50",
+      "name": "TPG NBN50",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "50",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "50",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$79.99",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $114.95",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$79.99",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "50",
+      "sidebarUploadMbps": "20"
+    },
+    "buddy-telco-nbn-speedy": {
+      "slug": "buddy-telco-nbn-speedy",
+      "name": "Buddy Telco NBN Speedy",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "99",
+        "Typical upload speed (Mbps)": "16",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$85",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$85",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "southern-phone-nbn-fast": {
+      "slug": "southern-phone-nbn-fast",
+      "name": "Southern Phone NBN Fast",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "99",
+        "Typical upload speed (Mbps)": "16",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "N/A",
+        "Minimum cost": "$85",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem",
+        "Modem T&Cs": "N/A",
+        "Ongoing cost": "$85",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    },
+    "dodo-nbn100": {
+      "slug": "dodo-nbn100",
+      "name": "Dodo NBN100",
+      "sourceUrl": "research",
+      "planInfo": {
+        "Connection Type": "NBN",
+        "Typical download speed (Mbps)": "100",
+        "Typical upload speed (Mbps)": "17",
+        "Technology type": "FTTP FTTB FTTN FTTC HFC",
+        "Plan length": "Month-to-month",
+        "Maximum upload speed (Mbps)": "20",
+        "Maximum download speed (Mbps)": "100",
+        "Data Allowance": "Unlimited Data",
+        "Plan type": "N/A"
+      },
+      "cost": {
+        "Promotional Cost": "$73.90",
+        "Minimum cost": "$73.90",
+        "Setup fee": "$0",
+        "Modem description": "BYO modem or purchase for $79.90. Option to pay in monthly instalments.",
+        "Modem T&Cs": "Get a $99.90 Dodo modem for $79.90 upfront. Alternatively, you can spread the cost over 12 months. Ends 29.4.25",
+        "Ongoing cost": "$88.90",
+        "Modem delivery fee": "$0"
+      },
+      "bundles": {
+        "Home phone included": "No",
+        "Entertainment included": "No"
+      },
+      "sidebarDownloadMbps": "100",
+      "sidebarUploadMbps": "20"
+    }
+  }
+}

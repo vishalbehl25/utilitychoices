@@ -1,0 +1,668 @@
+{
+  "scrapedAt": "2026-06-04T06:39:24.444Z",
+  "plans": {
+    "nab-choice-package-fixed-rate-home-loan": {
+      "slug": "nab-choice-package-fixed-rate-home-loan",
+      "name": "Nab Choice Package Fixed Rate Home Loan",
+      "scrapedAt": "2026-06-04T06:38:52.845Z",
+      "details": {
+        "Product Name": "NAB Choice Package Fixed Rate Home Loan",
+        "Interest Rate Type": "5.39%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.39%",
+        "Comp. Rate p.a.": "7.52% $150,000",
+        "Minimum Loan Amount": "$150,000",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "95%",
+        "Loan Redraw Facility": "No",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes You can make extra payments of up to $20,000 during the fixed term without incurring any penalties."
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$395 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "sidebar": {
+        "loanFee": "$2,808",
+        "interestRate": "5.39%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Yes You can make extra payments of up to $20,000 during the fixed term without incurring any penalties"
+      ],
+      "cons": [
+        "A discharge fee of $350 applies when you fully repay your home loan",
+        "An annual fee of $395 is also charged"
+      ],
+      "logoMediaId": "ef42b6_ac7ab6704fb34e8ca58d118c29e52653~mv2.png"
+    },
+    "community-first-bank-true-basic-variable-home-loan": {
+      "slug": "community-first-bank-true-basic-variable-home-loan",
+      "name": "Community First Bank True Basic Variable Home Loan",
+      "scrapedAt": "2026-06-04T06:38:55.062Z",
+      "details": {
+        "Product Name": "Community First Bank True Basic Variable Home Loan",
+        "Interest Rate Type": "5.74%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.74%",
+        "Comp. Rate p.a.": "5.74% $50,000",
+        "Minimum Loan Amount": "$50,000",
+        "Maximum Loan Amount": "$1,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "95%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$600",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$696"
+      },
+      "sidebar": {
+        "loanFee": "$2,918",
+        "interestRate": "5.74%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Borrow up to 95% of the property’s value Make additional repayments at any time without penalties Access extra repayments through a convenient redraw facility"
+      ],
+      "cons": [
+        "A $600 application fee is charged when opening the home loan Redraws of extra funds may incur fees A $300 discharge fee applies when closing the loan account"
+      ],
+      "logoMediaId": "ef42b6_6226896cf1f24f7d863d5125d95dd2a0~mv2.jpg"
+    },
+    "ing-orange-advantage-fixed-home-loan": {
+      "slug": "ing-orange-advantage-fixed-home-loan",
+      "name": "Ing Orange Advantage Fixed Home Loan",
+      "scrapedAt": "2026-06-04T06:38:57.135Z",
+      "details": {
+        "Product Name": "ING Orange Advantage Fixed Home Loan",
+        "Interest Rate Type": "5.59%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.59%",
+        "Comp. Rate p.a.": "5.83% $150,000",
+        "Minimum Loan Amount": "$150,000",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "80%",
+        "Loan Redraw Facility": "No",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "Yes",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes N/A"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "covers up to $225, for the first valuation/property only",
+        "Ongoing Fees": "$299 p.a.",
+        "Settlement Fee": "$299",
+        "Discharge Fee": "$250"
+      },
+      "sidebar": {
+        "loanFee": "$2,871",
+        "interestRate": "5.59%",
+        "maxTenure": "30 years"
+      },
+      "pros": [],
+      "cons": [],
+      "logoMediaId": "ef42b6_3707e13d75924cb68c5e1957797bc91c~mv2.png"
+    },
+    "macquarie-bank-basic-home-loan": {
+      "slug": "macquarie-bank-basic-home-loan",
+      "name": "Macquarie Bank Basic Home Loan",
+      "scrapedAt": "2026-06-04T06:39:00.229Z",
+      "details": {
+        "Product Name": "Macquarie Bank Basic Home Loan",
+        "Interest Rate Type": "6.09%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "6.09%",
+        "Comp. Rate p.a.": "6.11% $150,000",
+        "Minimum Loan Amount": "$150,000",
+        "Maximum Loan Amount": "$10,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "60%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$350",
+        "Discharge Fee": "$400"
+      },
+      "sidebar": {
+        "loanFee": "$3,030",
+        "interestRate": "6.09%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "No application or ongoing fees Interest-only repayment options are available Redraw extra repayments at no cost"
+      ],
+      "cons": [
+        "Offset account is not included with this loan A $400 discharge fee applies when closing the home loan"
+      ],
+      "logoMediaId": "ef42b6_f275b4d136324f23864482017f64dc81~mv2.jpg"
+    },
+    "nrma-home-loans-fixed-home-loan": {
+      "slug": "nrma-home-loans-fixed-home-loan",
+      "name": "Nrma Home Loans Fixed Home Loan",
+      "scrapedAt": "2026-06-04T06:39:01.750Z",
+      "details": {
+        "Product Name": "NRMA Home Loans Fixed Home Loan",
+        "Interest Rate Type": "5.74%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.74%",
+        "Comp. Rate p.a.": "5.81% $50,000",
+        "Minimum Loan Amount": "$50,000",
+        "Maximum Loan Amount": "$3,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "90%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "No",
+        "Fixed Interest Option": "Yes",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes N/A"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "N/A",
+        "Valuation Fee": "Varies",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$345.40",
+        "Discharge Fee": "$325"
+      },
+      "sidebar": {
+        "loanFee": "$2,918",
+        "interestRate": "5.74%",
+        "maxTenure": "30 years"
+      },
+      "pros": [],
+      "cons": [],
+      "logoMediaId": "ef42b6_092f2c3746b44554a3c1a74a7004d05b~mv2.png"
+    },
+    "regional-australia-bank-variable-home-loan": {
+      "slug": "regional-australia-bank-variable-home-loan",
+      "name": "Regional Australia Bank Variable Home Loan",
+      "scrapedAt": "2026-06-04T06:39:03.579Z",
+      "details": {
+        "Product Name": "Regional Australia Bank Variable Home Loan",
+        "Interest Rate Type": "5.69%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.69%",
+        "Comp. Rate p.a.": "5.70% N/A",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "60%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "No",
+        "Fixed Interest Option": "N/A",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "N/A"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "N/A",
+        "Discharge Fee": "N/A"
+      },
+      "sidebar": {
+        "loanFee": "$2,902",
+        "interestRate": "5.69%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Make extra repayments and access them later through the redraw facility No application fees No ongoing monthly or annual fees"
+      ],
+      "cons": [
+        "This loan option does not include an offset account Branches are primarily in regional areas, so city-based customers will need to manage their banking online"
+      ],
+      "logoMediaId": "ef42b6_f39c3527ebb948e7979292647f01e080~mv2.png"
+    },
+    "macquarie-bank-basic-fixed-home-loan": {
+      "slug": "macquarie-bank-basic-fixed-home-loan",
+      "name": "Macquarie Bank Basic Fixed Home Loan",
+      "scrapedAt": "2026-06-04T06:39:05.256Z",
+      "details": {
+        "Product Name": "Macquarie Bank Basic Fixed Home Loan",
+        "Interest Rate Type": "5.65%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.65%",
+        "Comp. Rate p.a.": "6.07% $150,000",
+        "Minimum Loan Amount": "$150,000",
+        "Maximum Loan Amount": "$10,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "80%",
+        "Loan Redraw Facility": "No",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "Yes",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$350",
+        "Discharge Fee": "$400"
+      },
+      "sidebar": {
+        "loanFee": "$2,890",
+        "interestRate": "5.65%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Start your home loan with as little as a 5% deposit No application fees to worry about Valuation fees waived for properties valued up to $2 million Enjoy zero annual fees"
+      ],
+      "cons": [
+        "Repayments must be made monthly, with no option for weekly or fortnightly payments"
+      ],
+      "logoMediaId": "ef42b6_f275b4d136324f23864482017f64dc81~mv2.jpg"
+    },
+    "g&c-mutual-bank-first-home-buyer": {
+      "slug": "g&c-mutual-bank-first-home-buyer",
+      "name": "G&c Mutual Bank First Home Buyer",
+      "scrapedAt": "2026-06-04T06:39:07.514Z",
+      "details": {
+        "Product Name": "G&C Mutual Bank First Home Buyer",
+        "Interest Rate Type": "5.74%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.74%",
+        "Comp. Rate p.a.": "5.79% $0",
+        "Minimum Loan Amount": "$0",
+        "Maximum Loan Amount": "$5,000,000",
+        "Maximum Loan Term": "40 years",
+        "Maximum LVR": "95%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "Yes",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "At cost",
+        "Discharge Fee": "$300"
+      },
+      "sidebar": {
+        "loanFee": "$2,918",
+        "interestRate": "5.74%",
+        "maxTenure": "40 years"
+      },
+      "pros": [
+        "Eligible with just a 5% deposit when using Lenders Mortgage Insurance (LMI) No establishment or ongoing fees Make unlimited extra repayments and access them through a redraw facility"
+      ],
+      "cons": [
+        "Only available to first home buyers Limited in-person support, with just 6 service centres in NSW and 1 in Melbourne"
+      ],
+      "logoMediaId": "ef42b6_7ced8aa326de4c6fbed5f0c1e2fed417~mv2.png"
+    },
+    "unloan-variable-home-loan": {
+      "slug": "unloan-variable-home-loan",
+      "name": "Unloan Variable Home Loan",
+      "scrapedAt": "2026-06-04T06:39:09.455Z",
+      "details": {
+        "Product Name": "Unloan Variable Home Loan",
+        "Interest Rate Type": "6.04%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "6.04%",
+        "Comp. Rate p.a.": "5.95% $10,000",
+        "Minimum Loan Amount": "$10,000",
+        "Maximum Loan Amount": "$10,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "80%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "Yes",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "N/A",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$230",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$300",
+        "Discharge Fee": "$300"
+      },
+      "sidebar": {
+        "loanFee": "$3,014",
+        "interestRate": "6.04%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Open to both owner-occupiers and investors No fees for application or ongoing account maintenance Allows additional repayments to help pay off the loan faster"
+      ],
+      "cons": [
+        "Requires a minimum loan term of 15 years $150 fee applies for late payments An extra 0.10% p.a. interest is charged if you opt for an offset account"
+      ],
+      "logoMediaId": "ef42b6_43889eef11844fcc89a3d1a08f06f312~mv2.jpg"
+    },
+    "loans.com.au-solar-home-loan": {
+      "slug": "loans.com.au-solar-home-loan",
+      "name": "Loans.com.au Solar Home Loan",
+      "scrapedAt": "2026-06-04T06:39:11.456Z",
+      "details": {
+        "Product Name": "loans.com.au Solar Home Loan",
+        "Interest Rate Type": "5.74%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.74%",
+        "Comp. Rate p.a.": "6.19% $50,000",
+        "Minimum Loan Amount": "$50,000",
+        "Maximum Loan Amount": "$1,500,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "90%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "Yes",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "N/A",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$230",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$300",
+        "Discharge Fee": "$300"
+      },
+      "sidebar": {
+        "loanFee": "$2,918",
+        "interestRate": "5.74%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Suitable for both owner-occupiers and property investors No application fees or ongoing charges Allows extra repayments without penalty"
+      ],
+      "cons": [
+        "Minimum loan term is 15 years $150 fee for late repayments Additional 0.10% p.a. interest applies if you choose to include an offset account"
+      ],
+      "logoMediaId": "ef42b6_3f01fb01162a42f490e6cba35b33f609~mv2.png"
+    },
+    "p&n-bank-&-basic-home-loan": {
+      "slug": "p&n-bank-&-basic-home-loan",
+      "name": "P&n Bank & Basic Home Loan",
+      "scrapedAt": "2026-06-04T06:39:13.621Z",
+      "details": {
+        "Product Name": "P&N Bank & Basic Home Loan",
+        "Interest Rate Type": "5.88%",
+        "Repayment Type": "Principal & Interest Interest Only",
+        "Interest Rate p.a.": "5.88%",
+        "Comp. Rate p.a.": "5.91% $150,000",
+        "Minimum Loan Amount": "$150,000",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "N/A",
+        "Maximum LVR": "60%",
+        "Loan Redraw Facility": "No",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes N/A"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$395"
+      },
+      "sidebar": {
+        "loanFee": "$2,963",
+        "interestRate": "5.88%",
+        "maxTenure": "N/A"
+      },
+      "pros": [],
+      "cons": [],
+      "logoMediaId": "ef42b6_ea8265ccaaf34fdd962bece180b7a894~mv2.png"
+    },
+    "westpac-flexi-first-option-home-loan-–-online-refinance-offer": {
+      "slug": "westpac-flexi-first-option-home-loan-–-online-refinance-offer",
+      "name": "Westpac Flexi First Option Home Loan – Online Refinance Offer",
+      "scrapedAt": "2026-06-04T06:39:15.490Z",
+      "details": {
+        "Product Name": "Westpac Flexi First Option Home Loan – Online Refinance Offer",
+        "Interest Rate Type": "5.84%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.84%",
+        "Comp. Rate p.a.": "5.85% $25,000",
+        "Minimum Loan Amount": "$25,000",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "70%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "N/A",
+        "Ongoing Fees": "$0 monthly ($0 p.a.)",
+        "Settlement Fee": "$150",
+        "Discharge Fee": "$350"
+      },
+      "sidebar": {
+        "loanFee": "$2,979",
+        "interestRate": "5.84%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Flexibility to make extra repayments at any time"
+      ],
+      "cons": [
+        "$600 establishment fee (currently waived by Westpac) Does not include an offset account"
+      ],
+      "logoMediaId": "ef42b6_d1242cdcdb0743be844ab9ab61656d53~mv2.png"
+    },
+    "qantas-money-variable-home-loan": {
+      "slug": "qantas-money-variable-home-loan",
+      "name": "Qantas Money Variable Home Loan",
+      "scrapedAt": "2026-06-04T06:39:17.476Z",
+      "details": {
+        "Product Name": "Qantas Money Variable Home Loan",
+        "Interest Rate Type": "5.93%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.93%",
+        "Comp. Rate p.a.": "5.85% $10,000",
+        "Minimum Loan Amount": "$10,000",
+        "Maximum Loan Amount": "$2,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "80%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "Yes",
+        "Split Loan Facility": "No",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "sidebar": {
+        "loanFee": "$2,950",
+        "interestRate": "5.93%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Features a 100% offset account No application fee involved Conveniently track your loan repayments and progress through the app"
+      ],
+      "cons": [
+        "Only accessible to refinancers with a PAYG income to qualify for the loan and cashback offer ANZ Plus home loans cannot be applied for or managed via ANZ branches or Internet Banking Not offered to borrowers residing in Tasmania or the Northern Territory"
+      ],
+      "logoMediaId": "ef42b6_c5883e887b254b26b831ea9952c6cd17~mv2.png"
+    },
+    "anz-plus-home-loan-variable-rate": {
+      "slug": "anz-plus-home-loan-variable-rate",
+      "name": "Anz Plus Home Loan Variable Rate",
+      "scrapedAt": "2026-06-04T06:39:19.434Z",
+      "details": {
+        "Product Name": "ANZ Plus Home Loan Variable Rate",
+        "Interest Rate Type": "5.84%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.84%",
+        "Comp. Rate p.a.": "5.85% $10,000",
+        "Minimum Loan Amount": "$10,000",
+        "Maximum Loan Amount": "$2,000,000",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "80%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "Yes",
+        "Split Loan Facility": "No",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes"
+      },
+      "fees": {
+        "Application Fee": "$0",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "$0",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$0",
+        "Discharge Fee": "$350"
+      },
+      "sidebar": {
+        "loanFee": "$2,950",
+        "interestRate": "5.84%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        "Includes a 100% offset account No application fee required Easily monitor your repayments and loan progress via the app"
+      ],
+      "cons": [
+        "Available only to PAYG income earners refinancing an existing loan ANZ branches and ANZ Internet Banking cannot be used to apply for or manage an ANZ Plus home loan Not available to borrowers located in Tasmania or the Northern Territory"
+      ],
+      "logoMediaId": "ef42b6_982caa46183947eb90f0ac4fc8f38251~mv2.png"
+    },
+    "imb-budget-home-loan": {
+      "slug": "imb-budget-home-loan",
+      "name": "Imb Budget Home Loan",
+      "scrapedAt": "2026-06-04T06:39:21.287Z",
+      "details": {
+        "Product Name": "IMB Budget Home Loan",
+        "Interest Rate Type": "5.79%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.79%",
+        "Comp. Rate p.a.": "5.82% $10,000",
+        "Minimum Loan Amount": "$10,000",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "80%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "No",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Yes Pros: Make unlimited extra repayments without penalty No ongoing monthly fees Available to eligible borrowers with up to 95% LVR Cons: No offset account included with this loan Refinancing less than $1 million makes you ineligible for the full $4,000 cashback A $449 application fee applies"
+      },
+      "fees": {
+        "Application Fee": "$449",
+        "Lender's Legal Fee": "$0",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "$350",
+        "Discharge Fee": "$350"
+      },
+      "sidebar": {
+        "loanFee": "$2,934",
+        "interestRate": "5.79%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        ": Make unlimited extra repayments without penalty No ongoing monthly fees Available to eligible borrowers with up to 95% LVR"
+      ],
+      "cons": [
+        ": No offset account included with this loan Refinancing less than $1 million makes you ineligible for the full $4,000 cashback A $449 application fee applies"
+      ],
+      "logoMediaId": "ef42b6_5b923291a9094a6d9ca18765c1a11caf~mv2.png"
+    },
+    "g&c-mutual-bank-fixed-rate-home-loan": {
+      "slug": "g&c-mutual-bank-fixed-rate-home-loan",
+      "name": "G&c Mutual Bank Fixed Rate Home Loan",
+      "scrapedAt": "2026-06-04T06:39:24.093Z",
+      "details": {
+        "Product Name": "G&C Mutual Bank Fixed Rate Home Loan",
+        "Interest Rate Type": "5.50%",
+        "Repayment Type": "Principal & Interest",
+        "Interest Rate p.a.": "5.50%",
+        "Comp. Rate p.a.": "5.56% $0",
+        "Minimum Loan Amount": "$0",
+        "Maximum Loan Amount": "N/A",
+        "Maximum Loan Term": "30 years",
+        "Maximum LVR": "95%",
+        "Loan Redraw Facility": "Yes",
+        "Offset Account": "No",
+        "Split Loan Facility": "Yes",
+        "Fixed Interest Option": "Yes",
+        "Loan Portable": "N/A",
+        "Extra Repayments": "Up to 5% of the loan balance per annum Pros: Competitive interest rates – Helps save on interest costs. Low deposit requirement – Easier to qualify with a smaller upfront amount. Limited extra repayments & redraw – Some flexibility to pay off the loan faster and access extra funds. Cons: Several fees – Includes establishment and redraw fees, increasing the overall cost. No offset account – Limits the ability to reduce interest costs using savings."
+      },
+      "fees": {
+        "Application Fee": "$500",
+        "Lender's Legal Fee": "At cost",
+        "Valuation Fee": "At cost",
+        "Ongoing Fees": "$0 p.a.",
+        "Settlement Fee": "At cost",
+        "Discharge Fee": "$300"
+      },
+      "sidebar": {
+        "loanFee": "$2,843",
+        "interestRate": "5.50%",
+        "maxTenure": "30 years"
+      },
+      "pros": [
+        ": Competitive interest rates – Helps save on interest costs",
+        "Low deposit requirement – Easier to qualify with a smaller upfront amount",
+        "Limited extra repayments & redraw – Some flexibility to pay off the loan faster and access extra funds"
+      ],
+      "cons": [
+        ": Several fees – Includes establishment and redraw fees, increasing the overall cost",
+        "No offset account – Limits the ability to reduce interest costs using savings"
+      ],
+      "logoMediaId": "52d9c9_a131c2dfef97412d994427e87eebed64~mv2.png"
+    }
+  }
+}

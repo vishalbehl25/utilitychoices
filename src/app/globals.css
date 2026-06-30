@@ -1,0 +1,1067 @@
+@import 'tailwindcss';
+
+@source "../app/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../components/**/*.{js,ts,jsx,tsx,mdx}";
+@source "../data/**/*.{js,ts,jsx,tsx,mdx}";
+
+@theme inline {
+  --color-brand-primary: #1c62af;
+  --color-brand-dark: #101921;
+  --color-brand-accent: #f26322;
+  --color-brand-accent-bright: #ff6200;
+  --color-brand-cream: #fcf9e2;
+  --color-brand-off-white: #fefef8;
+  --color-brand-hero-from: #fefef8;
+  --color-brand-hero-to: #fdfbe9;
+  --color-brand-light-blue: #e5f0fe;
+  --color-brand-gray: #727272;
+  --color-brand-muted: #4d4d4d;
+  --color-brand-tagline: #323232;
+  --color-brand-border: #d0d0d0;
+  --color-brand-border-light: #e8e8e8;
+  --color-brand-border-muted: #e3e3e3;
+  --color-brand-border-subtle: #969696;
+  --color-brand-dark-hover: #202b35;
+  --color-brand-dark-hover-alt: #2a3540;
+  --color-brand-footer-border: #1c2c39;
+  --color-brand-section-border: #f3edc3;
+  --color-brand-compliance-bg: #e8e8e8;
+  --color-brand-compliance-text: #333333;
+  --color-brand-compliance-muted: #555555;
+  --color-brand-map: #b2ec5d;
+
+  --font-heading: var(--font-nunito), 'Nunito Sans', sans-serif;
+  --font-body: var(--font-nunito), 'Nunito Sans', sans-serif;
+
+  --animate-accordion-down: accordion-down 0.2s ease-out;
+  --animate-accordion-up: accordion-up 0.2s ease-out;
+}
+
+@keyframes accordion-down {
+  from {
+    height: 0;
+  }
+  to {
+    height: var(--radix-accordion-content-height);
+  }
+}
+
+@keyframes accordion-up {
+  from {
+    height: var(--radix-accordion-content-height);
+  }
+  to {
+    height: 0;
+  }
+}
+
+@keyframes scroll-left {
+  from {
+    transform: translateX(0);
+  }
+  to {
+    transform: translateX(-50%);
+  }
+}
+
+@keyframes scroll-right {
+  from {
+    transform: translateX(-50%);
+  }
+  to {
+    transform: translateX(0);
+  }
+}
+
+:root {
+  --site-width: 1400px;
+  --site-inner-width: 1280px;
+  --site-vw: 72vw;
+  --site-px: 1.25rem;
+  --background: #fefef8;
+  --foreground: #101921;
+}
+
+/* Mobile only — tablet and laptop/desktop use separate rules below */
+@media (max-width: 767px) {
+  :root {
+    --site-vw: 100%;
+    --site-px: 1rem;
+  }
+}
+
+/* Tablet only (768px–1023px) — wider content area without changing mobile or lg+ */
+@media (min-width: 768px) and (max-width: 1023px) {
+  :root {
+    --site-vw: 92vw;
+    --site-px: 1.25rem;
+  }
+}
+
+/* iPhone SE and similar (~320px) — only affects smallest phones */
+@media (max-width: 374px) {
+  :root {
+    --site-px: 0.75rem;
+  }
+}
+
+* {
+  box-sizing: border-box;
+}
+
+html {
+  scroll-behavior: smooth;
+  overflow-x: clip;
+  width: 100%;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-body);
+  font-size: 16px;
+  font-weight: 400;
+  line-height: 1.5;
+  width: 100%;
+  overflow-x: clip;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+@layer base {
+  a[href],
+  button:not(:disabled),
+  select:not(:disabled),
+  summary,
+  [role='button']:not([aria-disabled='true']),
+  [role='tab']:not([aria-disabled='true']) {
+    cursor: pointer;
+  }
+
+  button:disabled,
+  select:disabled,
+  [aria-disabled='true'] {
+    cursor: not-allowed;
+  }
+
+  input:not([type='button']):not([type='submit']):not([type='reset']):not(
+      [type='checkbox']
+    ):not([type='radio']),
+  textarea {
+    cursor: text;
+  }
+}
+
+p {
+  font-weight: 300;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: var(--font-heading);
+  font-weight: 700;
+  color: var(--color-brand-dark);
+}
+
+/* Outside @layer so this wins over unlayered heading color above */
+.service-orange-hero h1,
+.service-orange-hero p {
+  color: #ffffff;
+}
+
+.credit-card-pros-heading {
+  color: #16a34a;
+}
+
+.credit-card-cons-heading {
+  color: #dc2626;
+}
+
+:focus-visible {
+  outline: 2px solid var(--color-brand-primary);
+  outline-offset: 2px;
+}
+
+@layer components {
+  .bg-hero-gradient {
+    background: linear-gradient(
+      180deg,
+      var(--color-brand-hero-from) 60.2%,
+      var(--color-brand-hero-to) 100%
+    );
+  }
+
+  @keyframes inverter-card-in {
+    from {
+      opacity: 0;
+      transform: translateY(12px);
+    }
+    to {
+      opacity: 1;
+      transform: translateY(0);
+    }
+  }
+
+  .bg-section-cream {
+    background-color: color-mix(
+      in srgb,
+      var(--color-brand-cream) 60%,
+      transparent
+    );
+  }
+
+  .bg-section-cream-soft {
+    background-color: color-mix(
+      in srgb,
+      var(--color-brand-cream) 35%,
+      transparent
+    );
+  }
+
+  .site-page-title {
+    @apply mb-3 text-3xl font-bold text-brand-dark md:text-4xl;
+  }
+
+  .site-page-description {
+    @apply mx-auto max-w-2xl text-base font-light text-brand-muted;
+  }
+
+  .site-filter-bar {
+    @apply mb-8 flex flex-wrap items-center gap-4 rounded-[16px] border border-brand-section-border p-4 md:p-5;
+    background-color: color-mix(
+      in srgb,
+      var(--color-brand-cream) 35%,
+      transparent
+    );
+  }
+
+  .site-card {
+    @apply rounded-[12px] border border-brand-border-light bg-white shadow-[0_2px_8px_rgba(0,0,0,0.01)] transition-all duration-300;
+  }
+
+  .site-header-glass {
+    @apply border-b border-white/50 shadow-sm backdrop-blur-xl backdrop-saturate-150;
+    background: color-mix(in srgb, var(--color-brand-hero-to) 78%, transparent);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+  }
+
+  .nbn-filter-glass {
+    @apply border-white/70 shadow-[0_8px_32px_rgba(16,25,33,0.1)] backdrop-blur-xl;
+    background: color-mix(in srgb, #ffffff 52%, transparent);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+  }
+
+  /* NBN listing cards — glossy glass (matches inverter-card) */
+  .nbn-listing-card {
+    @apply overflow-hidden rounded-[12px] border border-white/70 shadow-[0_8px_32px_rgba(16,25,33,0.1)] backdrop-blur-xl transition-shadow duration-300;
+    background: color-mix(in srgb, #ffffff 42%, transparent);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+  }
+
+  .nbn-listing-card:hover {
+    @apply border-white/90 shadow-[0_12px_40px_rgba(28,98,175,0.12)];
+    background: color-mix(in srgb, #ffffff 52%, transparent);
+  }
+
+  .home-loan-filter-glass {
+    @apply border-white/70 shadow-[0_8px_32px_rgba(16,25,33,0.1)] backdrop-blur-xl;
+    background: color-mix(in srgb, #ffffff 52%, transparent);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+  }
+
+  /* Home loan listing cards — glossy glass (matches nbn-listing-card) */
+  .home-loan-listing-card {
+    @apply overflow-hidden rounded-[12px] border border-white/70 shadow-[0_8px_32px_rgba(16,25,33,0.1)] backdrop-blur-xl transition-shadow duration-300;
+    background: color-mix(in srgb, #ffffff 42%, transparent);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+  }
+
+  .home-loan-listing-card:hover {
+    @apply border-white/90 shadow-[0_12px_40px_rgba(28,98,175,0.12)];
+    background: color-mix(in srgb, #ffffff 52%, transparent);
+  }
+
+  #home-loan-page .credit-cards-filter-panel,
+  #home-loan-page #home-loan-filter-controls {
+    overflow: visible;
+  }
+
+  .solar-postcode-glass {
+    @apply overflow-visible rounded-[20px] border border-white/80 shadow-[0_4px_24px_rgba(16,25,33,0.1)] backdrop-blur-2xl transition-all duration-300;
+    background: linear-gradient(
+      145deg,
+      color-mix(in srgb, #ffffff 75%, transparent) 0%,
+      color-mix(in srgb, #ffffff 40%, transparent) 100%
+    );
+    -webkit-backdrop-filter: blur(20px);
+    backdrop-filter: blur(20px);
+  }
+
+  .solar-postcode-glass:focus-within {
+    @apply border-white/95 shadow-[0_8px_32px_rgba(28,98,175,0.14)];
+    background: linear-gradient(
+      145deg,
+      color-mix(in srgb, #ffffff 82%, transparent) 0%,
+      color-mix(in srgb, #ffffff 50%, transparent) 100%
+    );
+  }
+
+  .solar-package-card {
+    @apply overflow-hidden rounded-[12px] border border-white/70 bg-white/45 shadow-[0_8px_32px_rgba(16,25,33,0.1)] backdrop-blur-xl transition-shadow duration-300;
+  }
+
+  .solar-package-card:hover {
+    @apply border-white/90 bg-white/55 shadow-[0_12px_40px_rgba(28,98,175,0.14)];
+  }
+
+  .solar-package-card-header--orange,
+  .solar-package-card-header--blue {
+    @apply backdrop-blur-md text-white;
+  }
+
+  .solar-package-card-header--orange {
+    background-color: color-mix(
+      in srgb,
+      var(--color-brand-accent-bright) 88%,
+      transparent
+    );
+  }
+
+  .solar-package-card-header--blue {
+    background-color: color-mix(
+      in srgb,
+      var(--color-brand-primary) 88%,
+      transparent
+    );
+  }
+
+  .solar-package-card-header--orange h3,
+  .solar-package-card-header--blue h3,
+  .solar-package-card-header--orange p,
+  .solar-package-card-header--blue p {
+    color: #ffffff;
+  }
+
+  .solar-package-card-body {
+    background-color: color-mix(in srgb, #ffffff 52%, transparent);
+    @apply backdrop-blur-lg;
+  }
+
+  /* Inverter listing cards — glossy glass (matches solar-package-card) */
+  .inverter-card {
+    @apply overflow-hidden rounded-[12px] border border-white/70 shadow-[0_8px_32px_rgba(16,25,33,0.1)] backdrop-blur-xl transition-shadow duration-300;
+    animation: inverter-card-in 0.55s ease-out both;
+    background: color-mix(in srgb, #ffffff 42%, transparent);
+    -webkit-backdrop-filter: blur(16px);
+    backdrop-filter: blur(16px);
+  }
+
+  .inverter-card:hover {
+    @apply border-white/90 shadow-[0_12px_40px_rgba(28,98,175,0.12)];
+    background: color-mix(in srgb, #ffffff 52%, transparent);
+  }
+
+  .inverter-card-image {
+    @apply relative flex aspect-[4/3] items-center justify-center bg-[#f2f2f4] px-6 pt-6;
+  }
+
+  .inverter-card-body {
+    @apply flex flex-1 flex-col bg-white px-4 pb-5 pt-3 sm:px-5;
+  }
+
+  .site-card-interactive {
+    @apply cursor-pointer rounded-[12px] border border-brand-border-light bg-white shadow-[0_2px_8px_rgba(0,0,0,0.01)] transition-all duration-300 hover:border-brand-primary/40 hover:scale-[1.02] hover:shadow-[0_4px_12px_rgba(28,98,175,0.08)];
+  }
+
+  .site-spec-panel {
+    @apply space-y-3 rounded-[12px] border border-brand-border-light bg-white p-6 shadow-[0_2px_8px_rgba(0,0,0,0.01)];
+  }
+
+  .site-connect-btn {
+    @apply inline-block rounded-full bg-brand-dark px-8 py-3 text-sm font-bold text-white shadow-[0_4px_12px_rgba(0,0,0,0.12)] transition-all duration-200 hover:scale-105 hover:bg-brand-dark-hover cursor-pointer sm:px-9 sm:py-3.5 sm:text-base;
+  }
+
+  .site-pill-tab {
+    @apply rounded-full border px-4 py-2 text-sm font-medium transition-all duration-200 cursor-pointer;
+  }
+
+  .site-pill-tab-active {
+    @apply border-brand-accent-bright bg-brand-accent-bright text-white shadow-[0_2px_10px_rgba(255,98,0,0.25)] scale-[1.02];
+  }
+
+  .site-pill-tab-inactive {
+    @apply border-brand-border-light bg-white text-brand-dark hover:border-brand-border-subtle hover:bg-brand-cream/5;
+  }
+
+  .legal-doc-body {
+    @apply space-y-6 text-base leading-relaxed text-brand-dark/90;
+  }
+
+  .legal-doc-section {
+    @apply space-y-3;
+  }
+
+  .legal-doc-heading {
+    @apply text-lg font-bold text-brand-dark;
+  }
+
+  .legal-doc-paragraph {
+    @apply text-justify;
+  }
+
+  .legal-doc-list {
+    @apply list-disc space-y-2 pl-5;
+  }
+
+  .service-orange-hero {
+    background-color: var(--color-brand-accent-bright);
+  }
+
+  .credit-cards-filter-panel {
+    @apply rounded-[12px] border border-brand-border-light bg-white px-5 py-5 shadow-[0_2px_12px_rgba(0,0,0,0.06)] md:px-8 md:py-6;
+  }
+
+  .nbn-filter-field {
+    @apply relative min-w-0 flex-1;
+  }
+
+  .nbn-filter-field--open {
+    @apply z-[70];
+  }
+
+  .nbn-filter-panel--open,
+  .home-loan-filter-panel--open {
+    @apply relative z-[60];
+  }
+
+  #nbn-page .credit-cards-filter-panel,
+  #nbn-page #nbn-filter-controls {
+    overflow: visible;
+  }
+
+  #home-loan-page #home-loan-postcode-tools {
+    @apply relative z-0;
+  }
+
+  /* Home loan listing — mobile / iPhone SE only (md+ unchanged) */
+  @media (max-width: 767px) {
+    #home-loan-page [id^='home-loan-'][id$='-inner'] {
+      @apply rounded-[12px];
+    }
+
+    #home-loan-page [id^='home-loan-'][id$='-title'] {
+      @apply break-words;
+    }
+
+    #home-loan-page #home-loan-listing {
+      @apply relative z-0;
+    }
+  }
+
+  @media (max-width: 374px) {
+    #home-loan-page [id^='home-loan-'][id$='-actions'] a {
+      @apply min-h-[40px] text-[13px];
+    }
+
+    #home-loan-page #home-loan-empty {
+      @apply px-2 text-sm;
+    }
+  }
+
+  /* Footer — mobile / iPhone SE only (lg+ unchanged) */
+  @media (max-width: 1023px) {
+    #site-footer #footer-links-grid {
+      width: 100%;
+    }
+  }
+
+  @media (max-width: 767px) {
+    #site-footer #footer-brand {
+      @apply border-b border-brand-border-light pb-6;
+    }
+
+    #site-footer #footer-links-grid {
+      @apply pt-1;
+    }
+  }
+
+  @media (max-width: 374px) {
+    #site-footer #footer-brand {
+      @apply pb-5;
+    }
+
+    #site-footer #footer-trust-seals {
+      @apply px-1;
+    }
+  }
+
+  .nbn-filter-field-label {
+    @apply mb-2.5 block text-sm font-bold leading-snug text-brand-dark;
+  }
+
+  .nbn-filter-trigger {
+    @apply flex w-full min-w-0 cursor-pointer items-center gap-3 rounded-[10px] border border-brand-border-muted bg-white px-4 py-2.5 text-sm text-brand-dark shadow-[0_1px_2px_rgba(0,0,0,0.04)] transition-[border-color,box-shadow,border-radius] duration-200 focus:outline-none focus-visible:ring-2 focus-visible:ring-[#7eb6e0]/40;
+  }
+
+  .nbn-filter-trigger--open {
+    @apply rounded-b-none border-[#7eb6e0] shadow-none;
+  }
+
+  .nbn-filter-trigger--placeholder {
+    @apply text-[#9aa3ab];
+  }
+
+  .nbn-filter-trigger--company {
+    @apply text-brand-primary;
+  }
+
+  .nbn-filter-menu-header {
+    @apply cursor-default px-4 py-2 text-sm text-[#9aa3ab];
+  }
+
+  .nbn-filter-menu-item-check {
+    @apply flex w-5 shrink-0 justify-center;
+  }
+
+  .nbn-filter-menu--company
+    .nbn-filter-menu-item--selected
+    .nbn-filter-menu-item-check {
+    @apply text-brand-primary;
+  }
+
+  .nbn-filter-menu-wrap {
+    @apply absolute left-0 right-0 top-full z-[80] overflow-hidden rounded-b-[10px];
+  }
+
+  .nbn-filter-menu {
+    @apply max-h-[min(18rem,52vh)] overflow-y-auto rounded-b-[10px] border border-t-0 border-[#7eb6e0] bg-white py-1 shadow-[0_12px_32px_rgba(16,25,33,0.16)];
+    scrollbar-width: thin;
+    scrollbar-color: #c5d4e3 transparent;
+  }
+
+  .nbn-filter-menu::-webkit-scrollbar {
+    width: 6px;
+  }
+
+  .nbn-filter-menu::-webkit-scrollbar-thumb {
+    background-color: #c5d4e3;
+    border-radius: 999px;
+  }
+
+  .nbn-filter-menu-item {
+    @apply flex w-full cursor-pointer items-start gap-1 px-3 py-2.5 text-left text-sm font-normal text-brand-primary transition-colors hover:bg-[#c5ebe8];
+  }
+
+  .nbn-filter-menu-item--selected {
+    @apply bg-[#c5ebe8] text-[#8a9399];
+  }
+
+  .nbn-filter-menu-scroll-hint {
+    @apply pointer-events-none absolute bottom-1 left-0 right-0 flex justify-center bg-gradient-to-t from-white via-white/90 to-transparent pt-4 pb-0.5;
+  }
+
+  /* NBN listing — mobile / iPhone SE only (md+ unchanged) */
+  @media (max-width: 767px) {
+    #nbn-page .credit-cards-filter-panel {
+      @apply px-4 py-4;
+    }
+
+    #nbn-page #nbn-listing {
+      @apply relative z-0;
+    }
+
+    #nbn-page .nbn-filter-field-label {
+      @apply mb-2 text-xs leading-snug;
+    }
+
+    #nbn-page .nbn-filter-trigger {
+      @apply px-3 py-2 text-[13px];
+    }
+
+    #nbn-page .nbn-filter-menu {
+      @apply max-h-[min(14rem,38vh)];
+    }
+
+    #nbn-page .nbn-filter-menu-header {
+      @apply px-3 py-1.5 text-xs;
+    }
+
+    #nbn-page .nbn-filter-menu-item {
+      @apply py-2 text-[13px];
+    }
+
+    #nbn-page #nbn-postcode-tools [role='status'] {
+      @apply px-3 py-2.5 text-[13px];
+    }
+
+    #nbn-page [id^='nbn-plan-'][id$='-inner'] {
+      @apply rounded-[12px];
+    }
+
+    #nbn-page [id^='nbn-plan-'][id$='-title'] {
+      @apply break-words;
+    }
+
+    #nbn-page [id^='nbn-plan-'][id$='-metrics'] ul {
+      @apply space-y-0.5;
+    }
+  }
+
+  @media (max-width: 374px) {
+    #nbn-page .credit-cards-filter-panel {
+      @apply px-3 py-3.5;
+    }
+
+    #nbn-page .nbn-filter-field-label {
+      @apply mb-1.5 text-[11px];
+    }
+
+    #nbn-page .nbn-filter-trigger {
+      @apply gap-2 px-2.5 py-2 text-xs;
+    }
+
+    #nbn-page .nbn-filter-menu {
+      @apply max-h-[min(14rem,42vh)];
+    }
+
+    #nbn-page .nbn-filter-menu-item {
+      @apply px-2.5 py-1.5 text-xs;
+    }
+
+    #nbn-page #nbn-empty {
+      @apply px-2 text-sm;
+    }
+
+    #nbn-page [id^='nbn-plan-'][id$='-actions'] a {
+      @apply min-h-[40px] text-[13px];
+    }
+
+    #nbn-page [id^='nbn-plan-'][id$='-metrics'] {
+      @apply gap-x-2;
+    }
+  }
+
+  /* NBN detail — mobile / iPhone SE only (lg+ unchanged) */
+  @media (max-width: 767px) {
+    #nbn-detail-page [id$='-tabs'] {
+      -ms-overflow-style: none;
+      scrollbar-width: none;
+    }
+
+    #nbn-detail-page [id$='-tabs']::-webkit-scrollbar {
+      display: none;
+    }
+  }
+
+  @media (max-width: 374px) {
+    #nbn-detail-page [id$='-metric-download'] p:first-child,
+    #nbn-detail-page [id$='-metric-upload'] p:first-child,
+    #nbn-detail-page [id$='-metric-data'] p:first-child {
+      @apply text-[9px] leading-tight;
+    }
+  }
+}
+
+.animate-scroll-left {
+  animation: scroll-left linear infinite;
+}
+
+.animate-scroll-right {
+  animation: scroll-right linear infinite;
+}
+
+.text-sideways {
+  writing-mode: vertical-rl;
+  transform: rotate(180deg);
+  text-orientation: mixed;
+  white-space: nowrap;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.animate-fade-in {
+  animation: fade-in 0.2s ease-out;
+}
+
+@keyframes australia-map-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+
+.animate-australia-map-float {
+  animation: australia-map-float 4.5s cubic-bezier(0.37, 0, 0.63, 1) infinite;
+}
+
+/* Inverters hero — Wix LottieEmbed comp-m6ugusr8 */
+.inverters-hero-lottie {
+  animation: solar-hero-float 4.5s cubic-bezier(0.37, 0, 0.63, 1) infinite;
+}
+
+.inverters-hero-lottie__animation {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.inverters-hero-body {
+  stroke-dasharray: 900;
+  stroke-dashoffset: 900;
+  animation: solar-hero-draw 2s cubic-bezier(0.37, 0, 0.63, 1) forwards;
+}
+
+/* Bolt + sparks flicker (matches copy-of-solar-panel Lottie loop) */
+.inverters-hero-bolt-group {
+  animation: inverters-hero-bolt-flicker 1.15s steps(1, end) infinite;
+}
+
+.inverters-hero-spark {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: inverters-hero-spark-drift 0.65s ease-in-out infinite;
+}
+
+.inverters-hero-spark--1 {
+  animation-delay: 0s;
+}
+
+.inverters-hero-spark--2 {
+  animation-delay: 0.12s;
+}
+
+.inverters-hero-spark--3 {
+  animation-delay: 0.24s;
+}
+
+@keyframes inverters-hero-bolt-flicker {
+  0%,
+  44% {
+    opacity: 1;
+  }
+  45%,
+  94% {
+    opacity: 0;
+  }
+  95%,
+  100% {
+    opacity: 1;
+  }
+}
+
+@keyframes inverters-hero-spark-drift {
+  0%,
+  100% {
+    transform: translate(0, 0);
+  }
+  33% {
+    transform: translate(3px, -4px);
+  }
+  66% {
+    transform: translate(-2px, 3px);
+  }
+}
+
+/* Solar hero — Wix LottieEmbed1125139890__animation */
+.solar-hero-lottie {
+  animation: solar-hero-float 4.5s cubic-bezier(0.37, 0, 0.63, 1) infinite;
+}
+
+.solar-hero-lottie__animation {
+  width: 100%;
+  height: 100%;
+  overflow: visible;
+}
+
+.solar-hero-stroke-teal {
+  stroke-dasharray: 520;
+  stroke-dashoffset: 520;
+  animation: solar-hero-draw 2.8s cubic-bezier(0.37, 0, 0.63, 1) forwards;
+}
+
+.solar-hero-stroke-arc {
+  animation-delay: 0.25s;
+}
+
+.solar-hero-stroke-leaf {
+  animation-delay: 0s;
+}
+
+.solar-hero-stroke-arc-bottom {
+  animation-delay: 0.5s;
+}
+
+/* Opacity only — never transform SVG <g> that already has translate() */
+.solar-hero-bolt {
+  animation: solar-hero-bolt-pulse 1.8s cubic-bezier(0.37, 0, 0.63, 1) infinite;
+  animation-delay: 2.8s;
+}
+
+@keyframes solar-hero-float {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-8px);
+  }
+}
+
+@keyframes solar-hero-draw {
+  to {
+    stroke-dashoffset: 0;
+  }
+}
+
+@keyframes solar-hero-bolt-pulse {
+  0%,
+  100% {
+    opacity: 1;
+  }
+  50% {
+    opacity: 0.88;
+  }
+}
+
+@keyframes heart-pulse {
+  0%,
+  100% {
+    transform: scale(1);
+    opacity: 1;
+  }
+  50% {
+    transform: scale(1.14);
+    opacity: 0.72;
+  }
+}
+
+.animate-heart-pulse {
+  transform-box: fill-box;
+  transform-origin: center;
+  animation: heart-pulse 1.25s cubic-bezier(0.37, 0, 0.63, 1) infinite;
+}
+
+/* Process step cards — matches Wix comp-m67hem2h / comp-m6t3wp5f */
+.process-step-card {
+  transform-origin: 50% 50%;
+  backface-visibility: hidden;
+  box-shadow: none;
+  transition:
+    transform 0.55s cubic-bezier(0.37, 0, 0.63, 1),
+    box-shadow 0.55s cubic-bezier(0.37, 0, 0.63, 1),
+    background-color 0.55s cubic-bezier(0.37, 0, 0.63, 1),
+    border-color 0.45s cubic-bezier(0.37, 0, 0.63, 1);
+}
+
+.process-step-card:hover {
+  z-index: 1;
+  transform: scale(1.05) translateZ(0);
+  border-color: transparent;
+  background-color: rgb(254 254 248 / 0.3);
+  box-shadow: 0 4px 12px rgb(0 0 0 / 0.39);
+}
+
+.process-step-card:is(:hover, :focus-visible) {
+  will-change: transform, box-shadow;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .process-step-card:hover {
+    transform: none;
+  }
+
+  .solar-hero-lottie,
+  .inverters-hero-lottie,
+  .solar-hero-stroke-teal,
+  .solar-hero-bolt,
+  .inverters-hero-bolt-group,
+  .inverters-hero-spark,
+  .inverter-card {
+    animation: none;
+  }
+
+  .solar-hero-stroke-teal,
+  .inverters-hero-body {
+    stroke-dashoffset: 0;
+  }
+
+  .inverters-hero-fan animateTransform {
+    display: none;
+  }
+
+  .solar-postcode-glass,
+  .solar-postcode-glass:focus-within,
+  .solar-package-card,
+  .solar-package-card:hover,
+  .inverter-card,
+  .inverter-card:hover,
+  .inverter-card-image,
+  .inverter-card-body,
+  .site-header-glass,
+  .nbn-filter-glass,
+  .nbn-listing-card,
+  .nbn-listing-card:hover,
+  .home-loan-filter-glass,
+  .home-loan-listing-card,
+  .home-loan-listing-card:hover {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+  }
+
+  .solar-postcode-glass,
+  .solar-postcode-glass:focus-within {
+    -webkit-backdrop-filter: none;
+    backdrop-filter: none;
+    background: rgb(255 255 255 / 0.96);
+  }
+
+  .solar-package-card {
+    background-color: rgb(255 255 255 / 0.95);
+  }
+
+  .solar-package-card-body {
+    background-color: #ffffff;
+  }
+
+  .inverter-card {
+    background-color: rgb(255 255 255 / 0.96);
+  }
+
+  .inverter-card-image {
+    background: #f2f2f4;
+  }
+
+  .inverter-card-body {
+    background-color: #ffffff;
+    border-top-color: rgb(230 230 234);
+    box-shadow: none;
+  }
+
+  .site-header-glass {
+    background: var(--color-brand-hero-to);
+  }
+
+  .nbn-filter-glass,
+  .nbn-listing-card,
+  .nbn-listing-card:hover,
+  .home-loan-filter-glass,
+  .home-loan-listing-card,
+  .home-loan-listing-card:hover {
+    background-color: rgb(255 255 255 / 0.96);
+  }
+
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+}
+
+/* Blog article HTML content from external CMS */
+.blog-content {
+  line-height: 1.75;
+}
+
+.blog-content h2,
+.blog-content h3 {
+  margin-top: 2rem;
+  margin-bottom: 0.75rem;
+  font-weight: 700;
+  color: var(--color-brand-dark);
+}
+
+.blog-content h2 {
+  font-size: 1.5rem;
+}
+
+.blog-content h3 {
+  font-size: 1.25rem;
+}
+
+.blog-content p {
+  margin-bottom: 1rem;
+}
+
+.blog-content ul,
+.blog-content ol {
+  margin-bottom: 1rem;
+  padding-left: 1.5rem;
+}
+
+.blog-content ul {
+  list-style-type: disc;
+}
+
+.blog-content ol {
+  list-style-type: decimal;
+}
+
+.blog-content li {
+  margin-bottom: 0.35rem;
+}
+
+.blog-content a {
+  color: var(--color-brand-primary);
+  text-decoration: underline;
+}
+
+.blog-content a:hover {
+  opacity: 0.85;
+}
+
+.blog-content hr {
+  margin: 2rem 0;
+  border: none;
+  border-top: 1px solid var(--color-brand-border-light);
+}
+
+.blog-content img {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: 1.5rem 0;
+  border-radius: 1rem;
+}
+
+.blog-content table {
+  display: block;
+  width: 100%;
+  margin: 1.5rem 0;
+  overflow-x: auto;
+  border-collapse: collapse;
+  font-size: 0.9375rem;
+}
+
+.blog-content th,
+.blog-content td {
+  padding: 0.625rem 0.75rem;
+  border: 1px solid var(--color-brand-border-light);
+  text-align: left;
+  vertical-align: top;
+}
+
+.blog-content th {
+  font-weight: 700;
+  background-color: var(--color-brand-light-blue);
+}

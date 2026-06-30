@@ -1,0 +1,772 @@
+{
+  "qantas-premier-titanium": {
+    "summaryExtra": "The Qantas Premier Titanium credit card offers a generous 1.25 Qantas Points per $1 on eligible spending in Australia (up to a $12,500 cap per statement period) and 2 points per $1 spent internationally. Currently, you can earn 150,000 bonus Qantas Points by spending $5,000 on eligible purchases within the first 3 months of card approval.",
+    "howToApply": "You can apply for the Qantas Premier Titanium credit card online by completing a secure application form. Before starting your application, ensure you meet the eligibility criteria and have the necessary documents ready.\n\nEligibility Criteria\nIncome: You must earn at least $200,000 per year.\nResidency: You need to be a permanent Australian resident with an Australian residential address and mobile phone number.\nQantas Frequent Flyer: This offer is available only to Qantas Frequent Flyer members. You can receive complimentary membership when you apply for this card.\nNew customer: The introductory offers are not available to existing primary Qantas Premier cardholders.\nAge: You must be at least 18 years old.\nEligible balance transfer debt: If you wish to make a balance transfer, you can transfer up to 80% of your available credit limit. The 0% interest rate applies to balances transferred within 30 days of card approval.\n\nRequired Documents\nPersonal details: You'll need to provide your full name, date of birth, contact information, marital status, and details of any dependents. Additionally, you must provide proof of ID, such as your driver's license, passport, or Medicare card.\nEmployment: Confirm your employment and annual income, and provide payslips less than 45 days old or 3 recent bank statements.\nFinances: Provide details of household expenses (e.g., rent, bills) and any existing loan or credit card repayments.\nQantas Frequent Flyer details: You'll need your Qantas Frequent Flyer number and PIN for the application.\nBalance transfer details: If transferring a balance, provide the financial institution name, BPAY reference number, and the amount you wish to transfer.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card comes with a high annual fee of $1,200."
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "A purchase interest rate of 20.99% p.a. applies to purchases."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "You can enjoy up to 44 interest-free days on purchases if you pay your balance in full by the statement due date. However, interest will be charged on retail purchases if you have a balance transfer debt."
+      },
+      {
+        "title": "Cash Advances",
+        "body": "Cash advances, such as ATM withdrawals, will incur a 21.99% interest rate."
+      },
+      {
+        "title": "Minimum Credit Limit",
+        "body": "The minimum credit limit for this card is $15,000."
+      }
+    ],
+    "detailsProduct": {
+      "Product Name": "Qantas Premier Titanium",
+      "Balance transfer rate p.a.": "0% for 6 months, then 21.99%",
+      "Balance transfer limit": "80% of available limit",
+      "Purchase rate p.a.": "20.99%",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "3% or $3, whichever is greater",
+      "Min credit limit": "$15,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$1,200",
+      "Minimum monthly repayment": "0% for 6 months, then 21.99%",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "$5",
+      "Additional cardholder fee": "$100",
+      "Number of additional cardholders": "0"
+    },
+    "rewards": {
+      "Rewards program": "1.25",
+      "Bonus points": "150,000",
+      "Rewards points per $ spent": "1.25",
+      "Rewards points cap": "150,000"
+    }
+  },
+  "american-express-business-gold-plus-card": {
+    "summaryExtra": "The American Express Business Gold Plus Card helps you manage business expenses while earning points through the Membership Rewards program (including accelerated earn on categories such as Xero, Google Ads, and Meta for the first 200,000 points each calendar year). New American Express card members can earn 200,000 bonus Membership Rewards points when they apply by 25 August 2026, are approved, and spend $5,000 on eligible purchases within the first 3 months from approval. The card allows up to two employee cards at no extra cost and includes complimentary domestic and international travel insurance (terms and conditions apply).",
+    "howToApply": "You can apply for the American Express Business Gold Plus Card online and may receive a response within 48 hours. Before you proceed to the American Express application page, ensure that you meet the eligibility criteria and have all the required documents and details ready.\n\nEligibility Criteria\nBusiness requirements: You must have an active ABN (Australian Business Number) and your business must be registered for GST. Your business should also generate an annual revenue of at least $75,000.\nNew card member: To qualify for 200,000 bonus points, apply by 25 August 2026, be approved, and spend $5,000 on eligible purchases within the first 3 months. You must not currently hold or have held an American Express card issued by American Express Australia Limited within the past 18 months.\nCredit history: A good credit history with no payment defaults is required.\nResidency: You must be an Australian citizen or permanent resident.\nAge: Applicants must be at least 18 years old.\n\nRequired Documents\nPersonal details: You will need to provide your full name, email, residential address, date of birth, and contact number. A valid ID, such as your driver's licence or passport, will also be needed.\nBusiness details: This includes your ABN, financial information, and your accountant's contact details.\nFinancial details: You will need to provide documents showing your minimum required annual income. You may also need to include your accountant's details.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card has an annual fee of $395."
+      },
+      {
+        "title": "Additional Cards Fee",
+        "body": "You can request up to two employee cards at no additional cost. After that, each extra card will incur a $75 annual fee."
+      },
+      {
+        "title": "Interest-Free Purchases",
+        "body": "As a charge card, this card does not have an interest rate. You must pay off your balance in full each month to avoid any penalty fees."
+      },
+      {
+        "title": "Extended Credit Days",
+        "body": "You can extend your cash flow for up to 55 days, depending on when you make a purchase and when your repayment is due."
+      },
+      {
+        "title": "Flexible Spending Power",
+        "body": "Although there is no predefined spending limit, the amount you can charge to the card will be determined by your credit history, spending behavior, and financial capacity."
+      },
+      {
+        "title": "Flexible Payment Option",
+        "body": "You have the option to pay off part of your balance over time using the Flexible Payment Option (subject to your limit). If you don't pay your full balance by the due date, interest will be charged. For more details, review the full terms and conditions for the Flexible Payment Option."
+      }
+    ],
+    "detailsProduct": {
+      "Product Name": "American Express Business Gold Plus Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "0%",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "N/A",
+      "Min credit limit": "N/A",
+      "Card type": "American Express"
+    },
+    "detailsFees": {
+      "Annual fee": "$395",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$20",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "N/A",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$75",
+      "Number of additional cardholders": "99"
+    },
+    "rewards": {
+      "Rewards program": "1.5",
+      "Bonus points": "200,000",
+      "Rewards points per $ spent": "1.5",
+      "Rewards points cap": "200,000"
+    },
+    "bonusPoints": "200000"
+  },
+  "westpac-altitude-platinum-card": {
+    "summaryExtra": "The Westpac Altitude Rewards Platinum Card earns between 1 and 3 Altitude Points per $1 on eligible purchases, with the top earn rate applying to flights booked with Qantas or Jetstar. New cardholders can earn up to 100,000 bonus Altitude Rewards Points (for example, 75,000 when you spend $4,000 within 90 days of approval, plus 25,000 in year two per Westpac's current offer). It charges a variable purchase interest rate of 20.99% p.a. if you're not taking advantage of interest-free days. Existing Westpac customers may qualify for a $49 first-year annual fee when they sign in to apply.",
+    "howToApply": "You can apply for the Altitude Platinum Credit Card online and receive a response in as little as 60 seconds. Before applying, ensure you meet the eligibility requirements below.\n\nEligibility Criteria\nNew cardholder: To qualify for the bonus points offer, you must not currently hold or have held a Westpac rewards card within the past 24 months.\nMinimum income: You'll need to earn at least $30,000 per year.\nResidency status: You must be an Australian citizen or permanent resident. Student visa holders aren't eligible. Temporary residents may apply via Westpac's migrant banking services.\nAge requirement: Applicants must be at least 18 years old.\nFirst-year annual fee offer: To receive the discounted $49 annual fee, you must be an existing Westpac customer.\n\nRequired Documents\nIdentification: A valid form of ID such as an Australian driver's licence, Medicare card or passport.\nIncome and expenses: You'll need to provide financial documents like recent payslips or tax returns, along with information on your existing debts, liabilities, and dependents.\nEmployment details: Include your employer's name, contact number, address, and any proof of other financial commitments such as investment property loans.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "Outside of any promotions, this card charges an annual fee of $175."
+      },
+      {
+        "title": "Interest rates",
+        "body": "This credit card charges a variable interest rate of 20.99% p.a. on purchases and 21.99% p.a. on cash advances."
+      },
+      {
+        "title": "Interest-free period",
+        "body": "You will receive up to 45 days interest-free on new purchases when you pay your monthly payment balance listed on your statement in full by the payment due date. Note that these interest-free days are separate from any longer-term interest rate promotions and the monthly payment balance excludes current balance transfers."
+      },
+      {
+        "title": "Additional cardholder",
+        "body": "You can earn points faster by adding 1 additional cardholder for $0."
+      }
+    ],
+    "detailsProduct": {
+      "Product Name": "Westpac Altitude Platinum Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.99%",
+      "Interest-free days": "Up to 45 days on purchases",
+      "Cash advance rate p.a.": "3%",
+      "Min credit limit": "$6,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$99 first year ($175 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "2%",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "$30,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "100,000",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "100,000"
+    },
+    "bonusPoints": "100000"
+  },
+  "st.george-amplify-signature": {
+    "pros": [
+      "Up to 200,000 bonus Amplify Points",
+      "First-year annual fee discounted to $199",
+      "Shopping cashback opportunities via ShopBack",
+      "2 complimentary airport lounge passes annually",
+      "Complimentary overseas travel insurance for up to 6 months"
+    ],
+    "cons": [
+      "$295 annual fee from the second year onwards",
+      "3% fee on foreign transactions"
+    ],
+    "summaryExtra": "The St.George Amplify Signature is a high-end credit card that provides unlimited rewards, access to airport lounges, complimentary travel insurance, and a range of additional premium benefits.",
+    "howToApply": "You can apply for the St.George Amplify Signature Credit Card online in approximately 10 minutes. Before starting, ensure you meet the following eligibility criteria and have all the necessary documents and information for your application.\n\nEligibility Criteria\nNew cardholder: To qualify for the bonus points offer, you must not currently hold or have held an Amplify Platinum or Amplify Signature Credit Card from Bank of Melbourne, St.George, or BankSA within the last 24 months.\nResidency: You must be an Australian citizen or permanent resident with a fixed address in Australia. Temporary residents can apply if they have a valid visa with at least 1 year before expiry. More details on credit card eligibility for temporary residents are available in Finder's guide.\nIncome: You must have a regular income taxed through the Australian Taxation Office.\nAge: Applicants must be at least 18 years old.\n\nRequired Documents\nPersonal information: You'll need to provide your full name, date of birth, residential address, email address, and phone number. Additionally, provide a valid form of identification, such as an Australian driver's licence, Medicare card, passport, or birth certificate.\nEmployment details: Include your job title, salary details, and employer's contact information. If self-employed, you may be asked for your accountant's contact details.\nOther financial information: Provide information on any other income sources, assets like savings or shares, and details about existing debts and ongoing expenses such as rent, mortgage payments, bills, and groceries.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "This card charges a standard annual fee of $295 p.a."
+      },
+      {
+        "title": "Interest rates",
+        "body": "The variable interest rate for purchases is 20.99% p.a., while the cash advance rate is 21.99% p.a."
+      },
+      {
+        "title": "Interest-free days",
+        "body": "When you pay your monthly payment balance in full, which excludes current balance transfers, listed on your statement by the payment due date, you will receive up to 55 days interest-free on new purchases. Note that interest-free days are separate from any longer-term interest rate promotions."
+      },
+      {
+        "title": "Foreign transaction fee",
+        "body": "This card charges a fee worth 3% of each transaction made overseas or online in a foreign currency."
+      }
+    ],
+    "detailsProduct": {
+      "Product Name": "St.George Amplify Signature",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "21.99%",
+      "Min credit limit": "$15,000",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$199 first year ($295 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "3% of each cash advance amount",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.5",
+      "Bonus points": "200,000",
+      "Rewards points per $ spent": "1.5",
+      "Rewards points cap": "200,000"
+    },
+    "bonusPoints": "200000"
+  },
+  "american-express-explorer-credit-card": {
+    "summary": "The American Express Explorer is one of the few cards offering an annual travel credit, providing up to $400 in value towards Australian or international trips booked through American Express Travel. Using this travel credit each year can help offset the card's $395 annual fee. This card is ideal for those seeking rewards and travel benefits, including airport lounge access, complimentary domestic and international travel insurance, and hotel upgrades through The Hotel Collection. Currently, new cardholders can earn 75,000 Membership Rewards Bonus Points when they apply online by 16 June 2026, are approved, and spend $4,000 on eligible purchases within the first 3 months (terms and conditions apply; new American Express card members only). The Amex Explorer earns 2 points per $1 on most eligible everyday purchases, and 1 point per $1 on spending with government bodies, such as the Australian Taxation Office (ATO). In addition to travel insurance, it includes 2 complimentary entries to The Centurion lounges at Sydney or Melbourne international airports, although the full value of this perk is typically realized when traveling overseas.",
+    "summaryExtra": "The American Express Explorer Credit Card stands out as one of the few cards offering an annual travel credit, providing $400 towards an Australian or international trip booked through American Express Travel. By using this travel credit every year, you can easily justify the card's $395 annual fee. The bonus points further enhance the value and offer potential savings, with the option to transfer them to over 10 major airline partners, including Virgin Australia Velocity Frequent Flyer, Singapore Airlines KrisFlyer, Emirates Skywards, and Air New Zealand Airpoints. Alternatively, you can redeem the points for various other rewards through Membership Rewards.\n\nWhile the $395 annual fee is on the higher side, it can be fully offset if you take advantage of the complimentary $400 travel credit each year.",
+    "howToApply": "You can apply for the American Express Explorer Credit Card online in just 10 minutes and receive a response within 60 seconds. Before you begin, make sure you meet the eligibility requirements and have the necessary details ready for the application:\n\nEligibility Criteria\nNew Amex Cardholder: To qualify for the 75,000 bonus points, apply online by 16 June 2026, be approved, and spend $4,000 on eligible purchases within the first 3 months. You must not currently hold or have held any American Express card issued by American Express Australia Limited in the past 18 months.\nCredit History: You need a good credit score, with no history of bad debt or payment defaults. If you're unsure of your credit score or what's on your file, you can request a free copy of your credit report via Finder.\nResidency: You must be an Australian citizen, permanent resident, or hold a valid long-term visa (12 months or more). Student visas are not eligible.\nAge: You must be at least 18 years old.\n\nRequired Documents\nPersonal Information: You'll need to provide your full name, date of birth, contact details, and address.\nIdentification: You may be asked to provide proof of identity, such as your driver's license or birth certificate.\nEmployment Details: This includes information about your current employer and their contact details.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "The $395 annual fee for the American Express Explorer Credit Card is fully offset by the $400 Travel Credit when redeemed."
+      },
+      {
+        "title": "Interest Rate",
+        "body": "Purchases are subject to an interest rate of 23.99% p.a."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "You can enjoy up to 55 interest-free days on purchases each statement period, provided you pay your balance in full by the due date, which can help minimize interest costs."
+      },
+      {
+        "title": "Foreign Transaction Fee",
+        "body": "A 3% fee will apply to transactions made overseas or with international retailers online."
+      },
+      {
+        "title": "Additional Cards",
+        "body": "You can request up to 4 additional cards at no extra cost, helping you earn points faster. The additional cardholder must be at least 18 years old, and you will be responsible for all charges and spending on the account."
+      }
+    ]
+  },
+  "westpac-altitude-rewards-black": {
+    "summaryExtra": "The Westpac Altitude Black Card offers the highest earn rate of any Altitude Rewards credit card, with no points cap. New cardholders can earn up to 200,000 bonus Altitude Rewards Points (for example, 100,000 in year one when you spend $6,000 within 90 days of approval, plus further bonus points in year two per the current Westpac offer terms). You'll earn between 1.25 and 6 points per $1 on eligible spending, with the top earn rate for bookings made in Australia with Qantas, Jetstar, Singapore Airlines, and Emirates. The card also provides up to 45 interest-free days on new purchases when you pay the full balance listed on your statement by the due date.",
+    "bonusPoints": "200000",
+    "howToApply": "You can apply for the Westpac Altitude Black Credit Card by completing a secure application on the bank's website. Before starting, ensure you meet the eligibility requirements and have all the necessary details and documents for your application.\n\nEligibility Criteria\nNew Cards Only: To qualify for the bonus points offer, you must not have held any of the following Westpac credit cards in the past 24 months: Altitude Classic, Altitude Platinum, Altitude Black, Earth Classic, Earth Platinum, Earth Platinum Plus, or Earth Black.\nIncome: You must earn at least $75,000 per year.\nResidency: You must be an Australian citizen or permanent resident currently living in Australia.\nAge: You must be at least 18 years old to apply.\n\nRequired Documents\nPersonal Details: Provide your full name, email address, residential address, date of birth, driver's license number, marital status, number of dependents, and contact number.\nEmployment Details: You'll need to include your current employment status, job title, salary, and employer's contact details. Recent payslips or bank statements are required to verify your income. If you're self-employed, provide your accountant's contact details and supporting documents like recent tax assessment notices.\nFinancial Details: Include any other income sources (e.g., government payments or pensions), as well as details of assets like savings. You'll also need to disclose existing debts, loans, and credit cards, along with an estimate of your regular household expenses.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card has a standard annual fee of $295 p.a. (outside of any promotions). Be sure to consider this fee against the value you'll receive from earning rewards and using additional perks, such as airport lounge access and complimentary insurance."
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "The variable interest rate on purchases is 20.99% p.a."
+      },
+      {
+        "title": "Interest-Free Period",
+        "body": "You can enjoy up to 45 interest-free days on new purchases when you pay your full monthly payment balance (as listed on your statement) by the due date. Please note that these interest-free days do not apply to any longer-term interest rate promotions, and the monthly payment balance excludes any existing balance transfers."
+      },
+      {
+        "title": "Cash Advance Rate",
+        "body": "The variable interest rate on cash advances and cash-equivalent transactions is 21.99% p.a."
+      },
+      {
+        "title": "Credit Limit",
+        "body": "The minimum credit limit for this card is $15,000."
+      },
+      {
+        "title": "Foreign Transaction Fee",
+        "body": "A 3% foreign conversion fee applies to purchases made with international retailers."
+      }
+    ],
+    "detailsFees": {
+      "Minimum monthly repayment": "NIL"
+    }
+  },
+  "anz-business-black": {
+    "summaryExtra": "The ANZ Business Black is a premium credit card designed for business owners, offering unlimited rewards, complimentary international travel insurance, and access to ANZ Global Business Concierge. New eligible businesses can earn 100,000 bonus ANZ Business Reward Points when you spend $6,000 on eligible purchases within the first 3 months of approval (terms apply; see ANZ Business Rewards Program Terms and Conditions). You can redeem points for gift cards, retail products, and more, or transfer to Velocity, Air New Zealand Airpoints, Asia Miles, and KrisFlyer. The card also provides data feeds for Xero, MYOB, and Intuit QuickBooks. Account fees include a $300 annual card fee plus a $75 annual rewards program fee per card on the account.",
+    "bonusPoints": "100000",
+    "howToApply": "You can apply for the ANZ Business Black Card online in about 20 minutes via ANZ GoBiz. To use this option, you'll need to link your accounting software (Xero, MYOB, or Intuit QuickBooks). Alternatively, you can request a callback through the ANZ website. Before applying, make sure you and your business meet the eligibility criteria and have the necessary information ready to complete the application:\n\nEligibility Criteria\nNew Cardholder: To be eligible for the reward points offer, you must not currently hold or have held an ANZ Qantas Business Rewards or ANZ Business Black card within the last 12 months.\nABN and ACN: You must have a valid Australian Business Number (ABN) and Australian Company Number (ACN) to apply.\nBusiness Use: The card must be used for business purposes. The applicant must be authorised to open an account on behalf of the business.\nResidency: At least one director, partner, or proprietor applying for the account must be a permanent Australian resident.\nAge: You must be at least 18 years old.\nANZ GoBiz Application Requirements: If applying through ANZ GoBiz, you need to have been operating under the same ABN or ACN for at least 6 months, have 6 months of reconciled financial data in Australian dollars, and be registered for GST if your business turnover is at least $75,000 annually. Your annual turnover should not exceed $10 million.\n\nRequired Documents\nPersonal Information: You'll need to provide personal details for each applicant, including any additional cardholders. This includes your full name, date of birth, address, contact information, and proof of identity.\nBusiness Details: This includes the business name, address, and contact details.\nFinancial Information: You may need to provide information about your ongoing expenses, assets, liabilities, and any other sources of income.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card comes with a $300 annual fee, plus a $75 annual rewards fee for each card linked to the account."
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "The interest rate on purchases is 20.24% p.a."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "Enjoy up to 55 interest-free days on purchases when you pay the full balance on your statement by the due date."
+      },
+      {
+        "title": "Cash Advances",
+        "body": "Cash advances, such as ATM withdrawals, will incur an interest rate of 21.74% p.a."
+      },
+      {
+        "title": "Minimum Credit Limit",
+        "body": "The minimum credit limit for this card is $5,000."
+      }
+    ]
+  },
+  "david-jones-prestige-credit-card": {
+    "summaryExtra": "The David Jones Prestige Credit Card (issued by Latitude Financial) earns David Jones Points on everyday spending: 4 points per $1 at David Jones, 3 points per $1 at participating supermarkets and petrol stations, and 1 point per $1 elsewhere. There is no current sign-up bonus points offer on the issuer product page; promotional value may include a $0 annual fee in the first year when you are approved and use the card within 90 days (reverts to $295 p.a.), and from time to time introductory purchase rate promotions such as 0% p.a. on eligible purchases for 6 months (check davidjones.com/latitude for current dates). Premium perks include complimentary gift wrapping, in-store alterations, two Priority Pass lounge visits per year, comprehensive travel insurance when you pay for eligible trips on the card, and styling benefits.",
+    "bonusPoints": "0",
+    "pros": [
+      "Earn up to 4 David Jones Points per $1 at David Jones",
+      "Complimentary Priority Pass lounge visits and travel insurance",
+      "Premium David Jones shopping benefits including alterations and gift wrapping",
+      "Additional cardholder at no extra cost"
+    ],
+    "cons": [
+      "$295 annual fee after any first-year waiver promotion",
+      "3% international transaction fee on foreign currency purchases"
+    ],
+    "howToApply": "You can apply for the David Jones Prestige Credit Card online via David Jones or Latitude Financial. Before starting, make sure you meet the eligibility requirements and have all the necessary documents ready.\n\nEligibility criteria\nResidency: You must be an Australian resident or a temporary resident with legal working rights in Australia and plans to stay for at least the next 12 months.\nAge: Applicants must be at least 18 years old.\nCredit history: You should have a clear credit record with no history of bad debts or defaults.\n\nRequired documents\nPersonal details: Include your full name, contact information, and proof of identity, such as an Australian driver's licence, Medicare card, or passport.\nFinancial details: Be ready to provide details about your income, savings, assets, and any existing debts or credit accounts. You'll also need to estimate your ongoing household expenses.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "The David Jones Prestige Credit Card comes with a $295 annual fee."
+      },
+      {
+        "title": "Interest rates",
+        "body": "Purchases attract a 23.99% p.a. interest rate, while cash advances are charged at 24.99% p.a."
+      },
+      {
+        "title": "Interest-free days",
+        "body": "Enjoy up to 55 interest-free days on everyday purchases when you pay your full closing balance by the due date."
+      },
+      {
+        "title": "Minimum credit limit",
+        "body": "This card has a minimum credit limit of $6,000."
+      },
+      {
+        "title": "Additional cardholder",
+        "body": "You can add an extra cardholder at no cost, as long as they are at least 16 years old."
+      },
+      {
+        "title": "International transaction fee",
+        "body": "A 3% fee applies to any overseas or foreign currency transactions, including online purchases."
+      }
+    ]
+  },
+  "nab-rewards-platinum-card": {
+    "summaryExtra": "The NAB Rewards Platinum Credit Card provides 24/7 concierge services to assist with travel planning, entertainment bookings, gift purchases, and more, helping you save time. Additionally, you can enjoy up to 44 interest-free days on purchases by paying your full statement balance by the due date. If not paid in full, a variable purchase rate of 20.99% p.a. will apply.",
+    "howToApply": "You can apply for the NAB Rewards Platinum card online in approximately 15 minutes and receive a response within around 60 seconds. Before you begin, ensure you meet the eligibility requirements and have all the necessary documents ready to complete the application.\n\nEligibility Criteria\nNew customer: The bonus points offer is only available to new NAB customers, meaning you cannot currently hold or have held a NAB Rewards card in the past 18 months.\nResidency: You must be an Australian citizen or permanent resident. If you're not a citizen or permanent resident, you must hold an acceptable visa. Some visas are not accepted, including Visitor, Working Holiday, Student, Exchange, Transit, Seasonal, and certain Bridging visas (except Special Category Visa for NZ citizens).\nEligible balance transfer debt: You can transfer up to 90% of your approved credit limit from non-NAB accounts.\nAge: You must be at least 18 years old to apply.\n\nRequired Documents\nPersonal information: Provide your full name, date of birth, marital status, residential address, email address, and contact number. You will also need to provide identification, such as your driver's license number.\nEmployment details: This includes your employer's name and contact details, your role, and the duration of your employment. You may need to provide your salary details and submit recent payslips or bank statements.\nFinancial information: In addition to your income, include details of any assets (such as savings, shares, or investments) and information on existing credit cards, loans, debts, and regular financial responsibilities (like groceries and fuel).\nBalance transfer details: If you're transferring a balance, include the amount to be transferred and the details of the previous account.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "$195 per year."
+      },
+      {
+        "title": "Purchase rate",
+        "body": "20.99% p.a. variable interest rate on purchases."
+      },
+      {
+        "title": "Interest-free days",
+        "body": "Up to 44 interest-free days on purchases when you pay your balance in full by the due date, or the interest-free days amount shown on your statement."
+      },
+      {
+        "title": "Cash advance rate",
+        "body": "21.74% p.a. variable interest rate on cash advances."
+      },
+      {
+        "title": "Cash advance fee",
+        "body": "A fee of 3% or $3 (whichever is greater) applies for cash withdrawals or other cash equivalent transactions."
+      },
+      {
+        "title": "Credit limits",
+        "body": "The minimum credit limit is $6,000, with a maximum limit of $30,000."
+      },
+      {
+        "title": "International transaction fee",
+        "body": "A 3.5% fee applies to foreign currency transactions, such as shopping overseas or with international merchants online."
+      }
+    ],
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A"
+    }
+  },
+  "virgin-money-anytime-rewards-credit-card-": {
+    "summaryExtra": "The Virgin Money Anytime Rewards Credit Card earns 1 uncapped Virgin Money Point per $1 on eligible transactions, redeemable for cashback, gift cards, and partner rewards through the Virgin Money Rewards program. Standard pricing on the issuer site is a $149 annual fee, 19.99% p.a. purchase rate, 20.99% p.a. cash advance rate, up to 55 interest-free days on retail purchases when you pay in full, and a minimum credit limit of $6,000. Note: Virgin Money states that new credit card applications are currently unavailable on its website; existing cardholders retain access to rewards and account services.",
+    "howToApply": "Applications for new Virgin Money credit cards are currently unavailable on virginmoney.com.au (as stated on the issuer site). Existing cardholders can manage accounts via the Virgin Money app or by calling 13 37 39.\n\nWhen applications reopen, typical eligibility includes:\n\nEligibility Criteria\nResidency: Australian citizens or permanent residents.\nAge: At least 18 years old.\nMinimum income: Income requirements apply per Virgin Money's credit assessment.\nCredit history: A satisfactory credit history is required.\n\nRequired Documents\nPersonal details: Full name, contact details, residential address, date of birth, and government-issued ID.\nEmployment and financial details: Income, employer information, assets, liabilities, and living expenses as requested in the application form.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "$149 per year."
+      },
+      {
+        "title": "Purchase rate",
+        "body": "19.99% p.a., which is lower than the average standard rate reported by the Reserve Bank of Australia."
+      },
+      {
+        "title": "Cash advance rate",
+        "body": "20.99% p.a. for cash advances."
+      },
+      {
+        "title": "Interest-free period",
+        "body": "Up to 55 days interest-free on purchases when the balance is paid in full each month. However, interest applies to retail purchases if you have an active balance transfer."
+      },
+      {
+        "title": "Minimum credit limit",
+        "body": "Starts at $6,000."
+      }
+    ],
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A"
+    }
+  },
+  "coles-rewards-mastercard": {
+    "summary": "The Coles Rewards Mastercard offers one of the highest earning rates among Flybuys-linked cards, allowing you to earn up to 2 points per $1 on eligible purchases. For instance, you can redeem 2,000 Flybuys points for $10 off at partnered stores or 1,000 Velocity Points for frequent flyer rewards. Currently, when you apply for a new Coles Rewards Mastercard by 30 June 2026, are approved, and spend $3,000 on eligible retail purchases within 90 days of approval, you'll receive a $250 Coles gift card by email (terms and conditions apply; not available when closing or transferring from another Coles-branded credit card).",
+    "howToApply": "You can apply for the Coles Rewards Mastercard online and receive a response within 60 seconds. Before applying, ensure you meet the eligibility criteria and have the required information ready to complete the application.\n\nEligibility Criteria\nNew cardholder: To qualify for the introductory offer, you must apply for a new Coles Rewards Mastercard and join as a new Coles Plus Saver member.\nBalance transfer: You can transfer up to 80% of your available credit limit if you wish to transfer a balance.\nResidency: This card is available to permanent Australian residents.\nCredit history: A good credit score is required for approval.\nAge requirement: Applicants must be at least 18 years old.\n\nRequired Documents\nPersonal details: Full name, date of birth, contact information, residential address, and number of dependents.\nProof of identification: Verification with a valid ID, such as an Australian driver's licence or passport.\nIncome details: Confirmation of annual income, along with your employer's name, address, and phone number.\nFinancial information: A breakdown of assets (e.g., savings, property, superannuation) and liabilities (e.g., existing debts and credit limits).\nFlybuys membership: If you're an existing member, include your Flybuys membership number. If not, you will be automatically enrolled when you apply.\nBalance transfer details: If transferring a balance, provide the total debt amount, account name and number, and the BSB of the institution holding the debt.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "This card has a $99 annual fee, which is competitive for a rewards credit card."
+      },
+      {
+        "title": "Interest rates",
+        "body": "A standard rate of 20.74% p.a. applies to purchases, balance transfers, and cash advances."
+      },
+      {
+        "title": "Interest-free period",
+        "body": "Enjoy up to 44 days interest-free on retail purchases when you pay the full outstanding balance (including any balance transfers) by the statement due date. Note that interest-free days do not apply to cash advances, balance transfers, special promotions, or account fees and charges."
+      },
+      {
+        "title": "International transaction fees",
+        "body": "A 3% fee applies to international transactions, including purchases made overseas or online with international merchants."
+      }
+    ],
+    "detailsProduct": {
+      "Balance transfer rate p.a.": "N/A"
+    },
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A"
+    }
+  },
+  "westpac-altitude-qantas-black": {
+    "summaryExtra": "The Westpac Altitude Qantas Black offers up to 150,000 bonus Qantas Points for new cardholders (offer commenced 1 May 2026): 90,000 bonus points when you spend $6,000 on eligible purchases within 90 days of approval, plus 60,000 bonus points in your second year when you spend $6,000 within 90 days of your account anniversary. It also provides complimentary overseas travel insurance, two Qantas Club lounge invitations each year, airport lounge passes, and additional insurance coverage.",
+    "pros": [
+      "Earn up to 150,000 bonus Qantas Points",
+      "Includes complimentary insurance coverage and airport lounge passes",
+      "Accumulate 0.75 Qantas Points for every $1 spent",
+      "$200 first-year card fee for existing Westpac customers (reverts to $295 p.a.; $75 annual Qantas Rewards fee still applies)"
+    ],
+    "bonusPoints": "150000",
+    "howToApply": "You can apply for the Westpac Altitude Qantas Black card by completing a secure application on the bank's website. Before you begin, ensure you meet the eligibility requirements and have the necessary information ready to complete the application.\n\nEligibility Criteria\nNew cardholder: This bonus points offer is available only to new Westpac Altitude customers. If you've held an Altitude Platinum or Altitude Black card with Altitude Rewards, Qantas, or Velocity in the last 24 months, you won't be eligible.\nMinimum income: You must earn at least $75,000 annually.\nResidency: You must be an Australian citizen or permanent resident, or hold a valid visa with at least 1 year remaining before expiry.\nCredit history: You must have a good credit score to apply.\nAge: You must be at least 18 years old to apply.\nExisting customers: To qualify for the discounted first-year annual fee, you must be an existing Westpac customer.\n\nRequired Documents\nPersonal information: This includes your full name, date of birth, number of dependents, and contact details. You will also need to provide a valid ID, such as your Australian driver's license, Medicare card, or Australian passport.\nEmployment details: This includes your employment status, salary, and employer contact information. You will need to provide recent payslips or bank statements, along with your most recent ATO tax assessment notice if you are self-employed.\nFinancial details: This covers any additional sources of income, existing loans, credit cards, and other financial obligations. You will also need to provide an estimate of your share of household spending on essentials.\nFrequent flyer number: You'll need to provide your Qantas Frequent Flyer number to ensure your points are credited to your account.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "The Westpac Altitude Qantas Black Credit Card comes with an annual fee of $370, which includes a $295 standard fee and a $75 yearly rewards fee for earning Qantas Points."
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "The card has a variable purchase interest rate of 20.99% p.a., which is around the average rate for credit cards in Australia."
+      },
+      {
+        "title": "Cash Advances",
+        "body": "If you use this card to withdraw cash or for other cash advances, a fee of 3% of the cash advance amount will apply, along with a cash advance interest rate of 21.99% p.a. Cash advances are not eligible for any interest-free period."
+      },
+      {
+        "title": "Interest-Free Period",
+        "body": "You can enjoy up to 45 days of interest-free on new purchases if you pay the full monthly balance by the due date listed on your statement. Note that this interest-free period does not apply to balance transfers or any longer-term promotional interest rates."
+      }
+    ],
+    "detailsProduct": {
+      "Min credit limit": "$15,000"
+    }
+  },
+  "anz-rewards-black-credit-card": {
+    "summaryExtra": "The ANZ Rewards Black is a premium credit card designed for high spenders and frequent earners. As a new customer, you can earn up to 180,000 bonus ANZ Reward Points (130,000 when you spend $5,000 in the first 3 months, plus $100 cashback, plus 50,000 more after 15 months when you keep the card open and meet ongoing criteria).\n\nThis card offers a high earn rate, giving you 2 ANZ Reward Points per $1 spent on eligible purchases up to $5,000 per statement period, then 1 point per $1 thereafter.\n\nWith benefits like complimentary purchase and travel insurance and a 24/7 personal concierge service, the card's perks can help offset the annual fee—but only if you take full advantage of them.",
+    "pros": [
+      "Earn up to 180,000 bonus ANZ Reward Points",
+      "Receive $100 cashback on your new card",
+      "Earn up to 2 ANZ Reward Points per $1 spent",
+      "Enjoy complimentary perks, including travel insurance and a personal concierge",
+      "Rated 9.34 in the rewards category by Finder"
+    ],
+    "howToApply": "If you've compared your options and decided on the ANZ Rewards Black, you can apply online in about 20 minutes. Before you begin, ensure you meet the eligibility criteria and have the necessary documents ready for the application.\n\nEligibility Criteria\nNew Cardholder: To qualify for the bonus points offer, you must be a new ANZ Rewards customer. This means you must not currently hold or have opened or closed an ANZ Rewards Black, ANZ Rewards Platinum, or ANZ Rewards credit card in the last 12 months.\nResidency Requirement: Australian citizens and permanent residents can apply. Non-permanent residents must have at least 12 months remaining on an eligible working or business visa.\nEligible Balance Transfer Debt: ANZ allows you to transfer amounts between $100 and 95% of your approved credit limit from non-ANZ credit or store cards.\nAge: Applicants must be at least 18 years old.\nCredit History: A good credit rating is required for approval. You can check your credit score and report for free through Finder.\n\nRequired Documents\nPersonal Details: Provide your full name, email address, residential address, date of birth, marital status, number of dependents, and contact number. You'll also need a valid form of ID, such as a driver's licence number or passport.\nEmployment Details: Include your job title, years of employment, salary details, and employer's contact information. If you are self-employed, provide details of your work and your accountant's contact details. You may need to submit recent payslips or tax assessment notices as proof.\nFinancial Details: Disclose other income sources (e.g., superannuation or savings), along with details of investments, debts, existing credit accounts, and loans. You'll also need to estimate regular household expenses, including rent or mortgage payments, bills, and groceries.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "A total of $375 per year, which includes: $320 Annual Account Fee $55 Rewards Program Service Fee"
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "A 20.99% p.a. interest rate applies to purchases if the balance is not paid in full by the statement due date."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "Get up to 44 interest-free days on purchases when you pay your closing account balance in full by the due date. If you have balance transfer plans, instalment plans, or buy now, pay later plans, you must pay the Adjusted Closing Balance (closing balance minus promotional plans) to be eligible for interest-free days."
+      },
+      {
+        "title": "Foreign Transaction Fee",
+        "body": "A 3% fee applies to transactions made overseas or with international online merchants."
+      },
+      {
+        "title": "Additional Cardholders",
+        "body": "Add up to 9 additional cardholders for a fee of $65 per cardholder."
+      }
+    ],
+    "detailsProduct": {
+      "Min credit limit": "$15,000"
+    },
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A"
+    },
+    "rewards": {
+      "Rewards points cap": "N/A",
+      "Bonus points": "180,000"
+    },
+    "bonusPoints": "180000"
+  },
+  "nab-rewards-platinum-card-velocity-points": {
+    "summaryExtra": "The NAB Rewards Platinum Card with Velocity automatic redemption lets you earn uncapped NAB Rewards Points converted monthly to Velocity Points. New cardholders can earn up to 90,000 bonus Velocity Points (offer commenced 15 January 2026): 70,000 Velocity Points when you spend $4,000 in the first 90 days and enrol in auto-redemption with your Velocity membership number, plus 20,000 Velocity Points when you keep the card open for over 12 months.",
+    "howToApply": "You can apply for the NAB Rewards Platinum Card – Velocity Points online in approximately 15 minutes and receive a response within around 60 seconds. Before you begin, ensure you meet the eligibility requirements and have all necessary documents ready.\n\nEligibility Criteria\nNew Customer: The bonus Velocity Points offer is available exclusively to new NAB customers, meaning you must not have held a NAB Rewards card in the past 18 months.\nVelocity Member: You need to be a member of the Velocity Frequent Flyer program.\nResidency: You can apply if you're an Australian citizen or permanent resident. If you're not a citizen or permanent resident, you must hold an acceptable visa. Many visa types are eligible, but the following are not: Visitor Visa (except for Special Category Visa – NZ Citizen), Working Holiday, Student, Exchange/Gap Year, Transit/Short Stay/Seasonal, and Bridging.\nEligible Balance Transfer Debt: You can transfer up to 90% of your approved credit limit from non-NAB accounts.\nAge: You must be at least 18 years old to apply.\n\nRequired Documents\nPersonal Information: This includes your full name, date of birth, marital status, residential address, email address, and contact number. You'll also need to provide identification, such as your driver's license number.\nEmployment Information: This includes your employer's name and contact details, your role, the duration of your employment, and salary details. You may be asked to submit recent payslips or bank statements.\nFinancial Information: This includes details of your income, assets (such as savings, shares, or investments), as well as any existing cards, loans, debts, and ongoing financial obligations (e.g., groceries, fuel).\nBalance Transfer Details: If you're completing a balance transfer, you'll need to provide the transfer amount and your previous account details.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "Outside of promotional offers, this card has an annual fee of $195."
+      },
+      {
+        "title": "Purchase Rate",
+        "body": "A variable interest rate of 20.99% p.a. applies to purchases made with this card."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "Enjoy up to 44 interest-free days on purchases, provided you pay your balance in full or, if applicable, the interest-free days amount by the statement due date."
+      },
+      {
+        "title": "Cash Advance Rate",
+        "body": "Cash advances attract a variable interest rate of 21.74% p.a."
+      },
+      {
+        "title": "Cash Advance Fee",
+        "body": "A fee of 3% of the transaction amount or $3 (whichever is greater) applies when withdrawing cash or making cash-equivalent transactions."
+      },
+      {
+        "title": "Credit Limits",
+        "body": "The minimum credit limit for this card is $6,000, while the maximum is $30,000."
+      },
+      {
+        "title": "International Transaction Fee",
+        "body": "A fee of 3.5% of the total transaction amount in Australian dollars applies to foreign currency transactions, including purchases made overseas or online with international merchants."
+      }
+    ],
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A"
+    },
+    "bonusPoints": "90000"
+  },
+  "humm90-platinum-mastercard": {
+    "summaryExtra": "The humm90 Platinum Mastercard is marketed on humm90.com with a $9.95 monthly account fee (about $119.40 per year if charged every month), up to 110 days interest-free on everyday purchases when you meet offer terms, and a standard purchase rate of 26.3% p.a. if interest applies. It uses the Mastercard network and supports humm90WRAPS and instalment-style payment features subject to humm's terms. Cash advances attract 26.49% p.a. and a fee of 3% or $30 (whichever is greater).",
+    "howToApply": "You can apply for the humm90 Platinum Mastercard online at humm90.com. Before you begin, ensure you meet the eligibility criteria and have the necessary documents ready.\n\nEligibility Criteria\nMinimum income: You must earn at least $25,000 per year.\nResidency: Applicants must be Australian citizens or permanent residents.\nCredit history: A satisfactory credit history is required for approval.\nAge: You must be at least 18 years old.\n\nRequired Documents\nPersonal information: Your full name, date of birth, residential address, email, and phone number.\nIdentification: Australian driver's licence, Medicare card, or passport details for identity verification.\nEmployment details: Job title, salary, and employer contact details; a recent bank statement may be requested to verify income.\nFinancial information: Income, assets, existing debts, and estimated living expenses.",
+    "ratesSections": [
+      {
+        "title": "Monthly Fee",
+        "body": "Outside of promotional offers, the humm90 Mastercard charges a monthly fee of $9.95. If you use the card every month, this amounts to $119.40 annually."
+      },
+      {
+        "title": "Purchase Rate",
+        "body": "The standard purchase interest rate is 26.3% p.a., which is higher than the average standard credit card interest rate of 20.99% p.a. (based on RBA data)."
+      },
+      {
+        "title": "Cash Advance Rate",
+        "body": "The cash advance interest rate is 26.49% p.a. This rate applies to cash advances and cash withdrawals from the moment they are made."
+      },
+      {
+        "title": "Cash Advance Fee",
+        "body": "A fee of 3% or $30 (whichever is higher) applies to cash advance transactions."
+      },
+      {
+        "title": "Promotional Rates",
+        "body": "From time to time, humm may offer promotional interest rates for specific transactions or time periods. When available, these rates apply to spending that meets the terms and conditions of the offer."
+      },
+      {
+        "title": "Payment Handling Fee",
+        "body": "A fee of $0.95 is charged each time you make a payment via BPAY."
+      },
+      {
+        "title": "Additional Cardholder Fee",
+        "body": "You can add up to 4 additional cardholders to your humm90 Mastercard account. Each additional cardholder incurs a $10 annual fee."
+      }
+    ],
+    "detailsFees": {
+      "Foreign currency conversion fee": "3%"
+    },
+    "productDetails": {
+      "Product Name": "Humm90 Platinum Mastercard"
+    }
+  },
+  "american-express-velocity-platinum-card": {
+    "summaryExtra": "The American Express Velocity Platinum Card offers a high Velocity Point earn rate, ranging from 1.25 to 2.25 Velocity Points per $1 spent, plus 50,000 bonus Velocity Points for eligible new American Express card members who apply online and meet the current spend criteria on the issuer website. It's also one of the few credit cards that reward you with bonus Status Credits when you meet the annual spending requirement. However, with a $440 annual fee, which is on the higher side for Velocity Frequent Flyer cards, it's essential to ensure you'll gain enough value from the points and benefits to make it worthwhile.",
+    "howToApply": "You can apply for the American Express Velocity Platinum Card online. Before you begin, ensure you meet the eligibility criteria and have all necessary documents ready.\n\nEligibility Criteria\nNew cardholder: To qualify for 50,000 bonus Velocity Points, apply online as a new American Express card member, be approved, and meet the spend criteria in the current offer terms (you must not have held an American Express card issued by American Express Australia Limited in the past 18 months).\nResidency: You must be an Australian citizen, permanent resident, or hold a current long-term visa (12 months or more). Student visas are not eligible.\nCredit history: A good credit score is required, with no history of bad debt or payment defaults.\nAge: Applicants must be at least 18 years old.\n\nRequired Documents\nPersonal details: You'll need to provide your full name, address, and details of your income, expenses, and debts.\nIdentification: Proof of identity is required, such as a driver's licence or birth certificate.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card comes with a $440 annual fee."
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "Purchases are subject to a 23.99% p.a. interest rate."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "You can enjoy up to 55 days interest-free on purchases if you pay your closing balance in full by the due date on each monthly statement."
+      },
+      {
+        "title": "Additional Cards",
+        "body": "You can request up to 4 additional cards for family members or a partner at no extra cost, allowing you to share the account and earn more rewards. However, you remain responsible for maintaining the account in good standing."
+      },
+      {
+        "title": "International Transaction Fee",
+        "body": "A 3% fee applies to transactions made overseas or online in foreign currencies, so be sure to consider this when traveling or shopping internationally."
+      }
+    ],
+    "detailsFees": {
+      "Foreign currency conversion fee": "3%"
+    }
+  },
+  "qantas-american-express-ultimate-card": {
+    "summaryExtra": "The Qantas American Express Ultimate Card boasts the highest earn rate among Qantas-earning credit cards, offering 1.25 Qantas Points per $1 on eligible purchases—meaning a $100 spend earns 125 points. New cardholders can earn 50,000 bonus Qantas Points when they apply online by 28 July 2026, are approved, and spend $5,000 on eligible purchases within the first 3 months (new American Express card members only).\n\nTo maximize the value of this card, it's essential to take advantage of its additional travel perks. While the $450 annual fee is higher compared to other frequent flyer credit cards, it can be offset by the included $450 Qantas Travel Credit. However, the travel credit must be redeemed through the Amex Travel website, with specific terms and conditions—such as being valid for a single booking and requiring a minimum spend of $450. Additional benefits include 2 complimentary Qantas Club lounge invitations, 2 Centurion lounge invitations per year, complimentary travel insurance, and a complimentary Qantas Wine Premium membership.",
+    "howToApply": "If you've compared your options and decided that the Qantas American Express Ultimate Card is the right choice for you, you can apply online in approximately 10 minutes and may receive a response within 60 seconds. Before applying, ensure you meet the eligibility criteria and have the necessary documents ready to complete your application.\n\nEligibility Criteria\nNew cardholder: To earn 50,000 bonus Qantas Points, apply online by 28 July 2026, be approved, and spend $5,000 on eligible purchases within the first 3 months. This offer is only available if you haven't held another American Express card issued by American Express Australia Limited in the past 18 months.\nResidency: Applicants must be Australian citizens, permanent residents, or hold a long-term visa (valid for at least 12 months). Student visas are not eligible.\nCredit history: A good credit history is required, with no past defaults or bad debts. If you're unsure about your credit score, you can obtain a free credit report through Finder.\nAge: You must be at least 18 years old.\n\nRequired Documents\nPersonal information: Full name, email address, date of birth, driver's licence number, marital status, number of dependents, and contact number.\nFrequent flyer details: Your Qantas Frequent Flyer number is required to earn points with this card. If you're not yet a member, check out ways to join for free.\nEmployment information: Current employment status, job title, and employer's contact details. You may also need to provide recent payslips, a tax return, or accountant details if self-employed.\nFinancial details: Information on your savings, shares, or other assets, along with details of existing debts, credit accounts, and estimates of your regular household expenses.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card has an annual fee of $450, which can be offset by the included $450 Qantas Travel Credit when used for eligible bookings through American Express Travel."
+      },
+      {
+        "title": "Interest Rate on Purchases",
+        "body": "The Qantas American Express Ultimate Card carries a 23.99% p.a. interest rate on purchases, making it ideal for those who pay off their balance in full each month."
+      },
+      {
+        "title": "Interest-Free Period",
+        "body": "Enjoy up to 44 days interest-free on purchases when you pay your balance in full by the due date on each statement cycle."
+      },
+      {
+        "title": "Additional Cardholders",
+        "body": "Add up to 4 supplementary cardholders (18+ years) at no extra cost. Additional cardholders can earn Qantas Points on their spending, while the primary cardholder remains responsible for managing the account and repayments."
+      },
+      {
+        "title": "Foreign Transaction Fees",
+        "body": "A 3% fee applies to transactions made in foreign currencies, whether overseas or through international online purchases."
+      }
+    ],
+    "detailsFees": {
+      "Foreign currency conversion fee": "3%"
+    },
+    "rewards": {
+      "Bonus points": "50,000"
+    },
+    "bonusPoints": "50000"
+  },
+  "bankwest-breeze-platinum-mastercard": {
+    "summaryExtra": "The Bankwest Breeze Platinum Mastercard is a low-rate credit card that includes complimentary insurance as part of its platinum benefits. Currently, it offers a 0% p.a. interest rate on balance transfers for the first 24 months for new customers. After the introductory period, a competitive 12.99% p.a. interest rate applies, which is lower than many other cards' post-offer balance transfer rates.\n\nHowever, if you're transferring a balance, be sure to consider the 3% balance transfer fee that applies at the time of processing.",
+    "howToApply": "You can apply for the Bankwest Breeze Platinum Mastercard online in approximately 15 minutes. Before starting your application, ensure you meet the eligibility criteria and have all the necessary documents and details ready.\n\nEligibility Criteria\nNew customers: This introductory balance transfer offer is only available to new customers.\nMinimum income: You must have a regular annual income of at least $35,000.\nEligible balance transfer: Balance transfers are not allowed from existing Bankwest-branded credit cards. You can transfer amounts ranging from $500 up to 95% of your approved credit limit.\nResidency: Applicants must be Australian citizens or permanent residents to apply online.\nAge: You must be at least 18 years old to be eligible.\n\nRequired Documents\nPersonal information: Your full name, date of birth, residential address, email, and contact number.\nProof of identification: A valid passport, driver's licence, or Medicare card for identity verification.\nEmployment details: Your job title, length of employment, and employer's contact information.\nFinancial information: Details of your income, expenses, existing debts, and assets.\nBalance transfer details: If transferring a balance, you'll need the total amount of debt you wish to transfer along with details of the existing credit card.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "This card comes with a standard annual fee of $59."
+      },
+      {
+        "title": "Cash Advances",
+        "body": "For cash withdrawals or cash-equivalent transactions, a 3% fee (or $4, whichever is higher) applies. These transactions attract an interest rate of 21.99% p.a. from the day they are made."
+      },
+      {
+        "title": "Purchase Rate",
+        "body": "The standard purchase interest rate is 12.99% p.a."
+      },
+      {
+        "title": "Interest-Free Days",
+        "body": "You can enjoy up to 55 days interest-free on purchases, provided you pay your previous statement balance in full (or meet the required monthly payment on an active easy instalment plan)."
+      },
+      {
+        "title": "Additional Cardholders",
+        "body": "You can add up to 3 additional cardholders at no extra cost, helping you share your account benefits while maintaining control over the primary account."
+      }
+    ],
+    "detailsProduct": {
+      "Balance transfer limit": "95% of approved credit limit"
+    },
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A",
+      "Foreign currency conversion fee": "0%"
+    }
+  },
+  "qantas-premier-platinum-creditcard": {
+    "summaryExtra": "The Qantas Premier Platinum Credit Card offers between 0.5 and 1.5 Qantas Points per $1 on eligible everyday spending, with the potential to earn up to 2 points per $1 on Qantas-related purchases. Cardholders receive 2 airport lounge invitations annually, complimentary travel insurance, and a yearly discounted companion flight offer for eligible domestic Qantas trips. Additionally, the card provides a 6-month interest-free period on your first eligible Qantas purchase. However, after the promotional period ends, a variable interest rate of 20.99% p.a. will apply to any outstanding balance.",
+    "howToApply": "You can apply for the Qantas Premier Platinum Credit Card online in just 10 minutes. Before proceeding, ensure you meet the eligibility criteria and have the necessary details ready to complete your application.\n\nEligibility Criteria\nIncome: A minimum annual income of $35,000 is required.\nCardholder status: You are not eligible if you currently hold or have held a Qantas Premier credit card as the primary cardholder in the last 12 months.\nQantas Frequent Flyer membership: You must be an active Qantas Frequent Flyer member to apply. If you're not yet a member, you can join for free during the application process.\nResidency: You must be an Australian citizen or permanent resident with a valid Australian residential address and mobile number.\nAge: Applicants must be 18 years or older.\n\nRequired Documents\nPersonal information: Your full name, date of birth, residential address, email, and contact number.\nIdentification: A driver's licence, passport, or Medicare number (driver's licence is preferred).\nEmployment details: Information about your current employer, job role, salary, and employer's contact details. You may need to provide recent payslips or an employment contract as supporting documentation. If self-employed, submit details of your tax accountant.\nFinancial details: Information on assets (savings, investments) and liabilities (credit cards, loans, and debts). You'll also need to estimate your monthly expenses for essentials like housing, food, and utilities.\nBalance transfer details: If transferring a balance, you can transfer up to 80% of your available credit limit.",
+    "ratesSections": [
+      {
+        "title": "Annual Fee",
+        "body": "The standard annual fee for this card is $399, unless a promotional offer applies."
+      },
+      {
+        "title": "Purchase Interest Rate",
+        "body": "A variable interest rate of 20.99% p.a. applies to purchases made with this card."
+      },
+      {
+        "title": "Interest-Free Period",
+        "body": "Get up to 44 days interest-free on purchases when you pay your balance in full by the due date on each statement. However, if you have an outstanding balance transfer, interest will apply to retail purchases."
+      },
+      {
+        "title": "Cash Advance Rate & Fees",
+        "body": "An interest rate of 21.99% p.a. applies to cash advances. The domestic cash advance fee is 3% of the transaction amount or $3, whichever is higher. The overseas cash advance fee is $5 per transaction."
+      },
+      {
+        "title": "Additional Cardholders",
+        "body": "Add up to 4 supplementary cardholders to help earn more Qantas Points and share account benefits. A $50 annual fee per additional cardholder applies. The primary cardholder remains responsible for managing the account and ensuring payments are made on time."
+      }
+    ],
+    "detailsProduct": {
+      "Min credit limit": "$6,000"
+    },
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $3, whichever is greater"
+    },
+    "rewards": {
+      "Bonus points": "120,000"
+    },
+    "bonusPoints": "120000",
+    "summaryExtra": "New Qantas Premier Platinum cardholders can earn up to 120,000 bonus Qantas Points: 80,000 bonus points when you spend $5,000 on eligible purchases within 90 days of approval, plus an additional 40,000 bonus points if you have not earned Qantas Points with a credit card in the last 24 months."
+  },
+  "st.george-vertigo-card": {
+    "summary": "The St.George Vertigo Card is a low-rate credit card with a $55 annual fee and a 13.99% p.a. variable purchase interest rate—well below the average standard credit card rate. When you request a balance transfer at application, promotional balance transfer rates apply (for example, 6.99% p.a. for 12 months or 0% p.a. for 20 months with a 3% balance transfer fee, depending on the offer available when you apply). After any promotional period ends, the standard cash advance rate applies to remaining balance transfer debt.",
+    "summaryExtra": "The St.George Vertigo card suits cardholders who want a simple low-rate card and optional balance transfer savings. Promotional balance transfer offers are updated periodically (the Vertigo balance transfer promotion on the issuer site commenced 28 May 2026). You can still receive up to 55 days interest-free on new purchases when you pay your monthly payment balance in full by the due date.",
+    "howToApply": "You can apply for the St.George Vertigo Card in just 10 minutes and receive an instant response. Before you apply, ensure you meet the eligibility criteria and have all necessary details ready:\n\nEligibility Criteria\nNew cardholder: Balance transfer promotions are for new St.George Vertigo applicants who request a balance transfer when they apply, subject to the current offer terms on the St.George website.\nEligible balance transfer: Balance transfers must be from cards not issued by St.George, Bank of Melbourne, or BankSA. You can transfer from $200 up to 80% of your credit limit.\nResidency: You must be an Australian citizen or permanent resident to apply online.\nAge: Applicants must be at least 18 years old.\n\nRequired Documents\nPersonal details: This includes your full name, contact details, and proof of identity such as your Australian driver's license, Medicare card, passport, Australian birth certificate, or NSW photo card.\nEmployment details: You'll need to provide your job title, length of employment, and your employer's contact information.\nFinancial information: You'll need to confirm your annual income and provide details of your savings, investments, and assets.\nBalance transfer information: If you're transferring a balance, provide details of the accounts and the amount of debt you're transferring.",
+    "ratesSections": [
+      {
+        "title": "Annual fee",
+        "body": "This card has an annual fee of $55 p.a."
+      },
+      {
+        "title": "Cash advance rate",
+        "body": "If you withdraw cash from an ATM, make a cash-equivalent transaction, or have remaining debt at the end of the balance transfer period, you will incur an interest charge of 21.99% p.a."
+      },
+      {
+        "title": "Currency conversion fee",
+        "body": "For international transactions, whether overseas or with online retailers, a 3% fee of the Australian dollar value per transaction will apply."
+      },
+      {
+        "title": "Interest-free period",
+        "body": "Enjoy up to 55 days interest-free on new purchases when you pay your monthly statement balance in full by the due date. Please note that these interest-free days do not apply to any balance transfer debts and are separate from any ongoing interest rate promotions."
+      }
+    ],
+    "detailsProduct": {
+      "Balance transfer limit": "80% of available limit"
+    },
+    "detailsFees": {
+      "Minimum monthly repayment": "N/A",
+      "Foreign currency conversion fee": "3%",
+      "Overseas cash advance fee": "3% of each cash advance amount"
+    }
+  }
+}

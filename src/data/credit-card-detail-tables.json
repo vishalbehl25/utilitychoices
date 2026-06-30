@@ -1,0 +1,659 @@
+{
+  "qantas-premier-titanium": {
+    "detailsProduct": {
+      "Product Name": "Qantas Premier Titanium",
+      "Balance transfer rate p.a.": "0% for 6 months, then 21.99%",
+      "Balance transfer limit": "80% of available limit",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "3% or $3, whichever is greater",
+      "Min credit limit": "$15,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$1,200",
+      "Minimum monthly repayment": "0% for 6 months, then 21.99%",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "$5",
+      "Additional cardholder fee": "$100",
+      "Number of additional cardholders": "0"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "$200,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.25",
+      "Bonus points": "150000",
+      "Rewards points per $ spent": "1.25",
+      "Rewards points cap": "150,000"
+    }
+  },
+  "american-express-business-gold-plus-card": {
+    "detailsProduct": {
+      "Product Name": "American Express Business Gold Plus Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "0",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "N/A",
+      "Min credit limit": "N/A"
+    },
+    "detailsFees": {
+      "Annual fee": "$395",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$20",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "N/A",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$75",
+      "Number of additional cardholders": "99"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.5",
+      "Bonus points": "100000",
+      "Rewards points per $ spent": "1.5",
+      "Rewards points cap": "100,000"
+    }
+  },
+  "westpac-altitude-platinum-card": {
+    "detailsProduct": {
+      "Product Name": "Westpac Altitude Platinum Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 45 days on purchases",
+      "Cash advance rate p.a.": "3%",
+      "Min credit limit": "$6,000"
+    },
+    "detailsFees": {
+      "Annual fee": "$99 first year ($175 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "2%",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "$30,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "120000",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "120,000"
+    }
+  },
+  "st.george-amplify-signature": {
+    "detailsProduct": {
+      "Product Name": "St.George Amplify Signature",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "21.99%",
+      "Min credit limit": "$15,000",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$199 first year ($295 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15&nbsp;",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "3% of each cash advance amount",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.5",
+      "Bonus points": "180000",
+      "Rewards points per $ spent": "1.5",
+      "Rewards points cap": "1.5"
+    }
+  },
+  "american-express-explorer-credit-card": {
+    "detailsProduct": {
+      "Product Name": "American Express Explorer Credit Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "23.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "N/A",
+      "Min credit limit": "$3,000"
+    },
+    "detailsFees": {
+      "Annual fee": "$395",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "N/A",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "2",
+      "Bonus points": "75000",
+      "Rewards points per $ spent": "2",
+      "Rewards points cap": "75,000"
+    }
+  },
+  "westpac-altitude-rewards-black": {
+    "detailsProduct": {
+      "Product Name": "Westpac Altitude Rewards Black",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 45 days on purchases",
+      "Cash advance rate p.a.": "3%",
+      "Min credit limit": "$15,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$200 first year ($295 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "3%",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "$75,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.25",
+      "Bonus points": "180000",
+      "Rewards points per $ spent": "1.25",
+      "Rewards points cap": "180,000"
+    }
+  },
+  "anz-business-black": {
+    "detailsProduct": {
+      "Product Name": "ANZ Business Black",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.24",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "1.5% or $1.50, whichever is greater",
+      "Min credit limit": "$5,000",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$375",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$35",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "1.5% or $1.50, whichever is greater",
+      "Overseas cash advance fee": "1.5% or $1.50, whichever is greater",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "0"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.5",
+      "Bonus points": "150000",
+      "Rewards points per $ spent": "1.5",
+      "Rewards points cap": "150,000"
+    }
+  },
+  "david-jones-prestige-credit-card": {
+    "detailsProduct": {
+      "Product Name": "David Jones Prestige Credit Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "23.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "3% or $3, whichever is greater",
+      "Min credit limit": "$6,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$295",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$35",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "60000",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "60000"
+    }
+  },
+  "nab-rewards-platinum-card": {
+    "detailsProduct": {
+      "Product Name": "NAB Rewards Platinum Card",
+      "Balance transfer rate p.a.": "0% for 12 months with 3% balance transfer fee, then 21.74%",
+      "Balance transfer limit": "90% of available limit",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "3% or $3, whichever is greater",
+      "Min credit limit": "$6,000",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$195",
+      "Minimum monthly repayment": "0% for 12 months with 3% balance transfer fee, then 21.74%",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3.5%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "$5",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "100000",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "1"
+    }
+  },
+  "virgin-money-anytime-rewards-credit-card-": {
+    "detailsProduct": {
+      "Product Name": "Virgin Money Anytime Rewards Credit Card",
+      "Balance transfer rate p.a.": "0% for 24 months with 1% balance transfer fee, then 20.99%",
+      "Balance transfer limit": "80% of available limit",
+      "Purchase rate p.a.": "19.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "20.99",
+      "Min credit limit": "$6,000",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$149",
+      "Minimum monthly repayment": "0% for 24 months with 1% balance transfer fee, then 20.99%",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3.3%",
+      "Cash advance fee": "2.7% or $2.70, whichever is greater",
+      "Overseas cash advance fee": "$5",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "$35,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "0",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "1"
+    }
+  },
+  "coles-rewards-mastercard": {
+    "detailsProduct": {
+      "Product Name": "Coles Rewards Mastercard",
+      "Balance transfer rate p.a.": "80% of available limit",
+      "Balance transfer limit": "80% of available limit",
+      "Purchase rate p.a.": "20.74",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "20.74%",
+      "Min credit limit": "$1,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$99",
+      "Minimum monthly repayment": "80% of available limit",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $1.95, whichever is greater",
+      "Overseas cash advance fee": "$5 + 2.5% of transaction amount",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "2",
+      "Bonus points": "0",
+      "Rewards points per $ spent": "2",
+      "Rewards points cap": "11,000"
+    }
+  },
+  "westpac-altitude-qantas-black": {
+    "detailsProduct": {
+      "Product Name": "Westpac Altitude Qantas Black",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 45 days on purchases",
+      "Cash advance rate p.a.": "3%",
+      "Min credit limit": "$75,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$370",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "$75,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "0.75",
+      "Bonus points": "120000",
+      "Rewards points per $ spent": "0.75",
+      "Rewards points cap": "120,000"
+    }
+  },
+  "anz-rewards-black-credit-card": {
+    "detailsProduct": {
+      "Product Name": "ANZ Rewards Black Credit Card",
+      "Balance transfer rate p.a.": "21.99%",
+      "Balance transfer limit": "95% of available limit",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "3% or $3, whichever is greater",
+      "Min credit limit": "$15,000&nbsp;",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$375",
+      "Minimum monthly repayment": "21.99%",
+      "Late payment fee": "$20",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "3% of the transaction amount or $4 (whichever is greater)",
+      "Additional cardholder fee": "$65",
+      "Number of additional cardholders": "9"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "2",
+      "Bonus points": "160000",
+      "Rewards points per $ spent": "2",
+      "Rewards points cap": "2"
+    }
+  },
+  "nab-rewards-platinum-card-velocity-points": {
+    "detailsProduct": {
+      "Product Name": "NAB Rewards Platinum Card – Velocity Points",
+      "Balance transfer rate p.a.": "0% for 12 months with 3% balance transfer fee, then 21.74%",
+      "Balance transfer limit": "90% of available limit",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "21.74%",
+      "Min credit limit": "$6,000",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$95 first year ($195 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3.5%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "$5",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "1"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "80000",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "N/A"
+    }
+  },
+  "st.george-vertigo-card": {
+    "detailsProduct": {
+      "Product Name": "St.George Vertigo Card",
+      "Balance transfer rate p.a.": "0% for 24 months with 1% balance transfer fee, then 21.99%",
+      "Balance transfer limit": "80% of available limit",
+      "Purchase rate p.a.": "13.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "21.99%",
+      "Min credit limit": "$500",
+      "Card type": "Visa"
+    },
+    "detailsFees": {
+      "Annual fee": "$55",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$15",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "3% of each cash advance amount",
+      "Additional cardholder fee": "N/A",
+      "Number of additional cardholders": "0"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "N/A",
+      "Bonus points": "0",
+      "Rewards points per $ spent": "N/A",
+      "Rewards points cap": "N/A"
+    }
+  },
+  "bankwest-breeze-platinum-mastercard": {
+    "detailsProduct": {
+      "Product Name": "Bankwest Breeze Platinum Mastercard",
+      "Balance transfer rate p.a.": "0% for 24 months with 3% balance transfer fee, then 12.99%",
+      "Balance transfer limit": "95% of approved credit limit",
+      "Purchase rate p.a.": "12.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "21.99%",
+      "Min credit limit": "$6,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$59",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$25",
+      "Foreign currency conversion fee": "0%",
+      "Cash advance fee": "3% or $4, whichever is greater",
+      "Overseas cash advance fee": "3% or $4, whichever is greater",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "3"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "$35,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "N/A",
+      "Bonus points": "0",
+      "Rewards points per $ spent": "N/A",
+      "Rewards points cap": "N/A"
+    }
+  },
+  "american-express-velocity-platinum-card": {
+    "detailsProduct": {
+      "Product Name": "American Express Velocity Platinum Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "23.99",
+      "Interest-free days": "Up to 55 days on purchases",
+      "Cash advance rate p.a.": "N/A",
+      "Min credit limit": "$3,000",
+      "Card type": "American Express"
+    },
+    "detailsFees": {
+      "Annual fee": "$440",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "N/A",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.25",
+      "Bonus points": "100000",
+      "Rewards points per $ spent": "1.25",
+      "Rewards points cap": "Uncapped"
+    }
+  },
+  "qantas-american-express-ultimate-card": {
+    "detailsProduct": {
+      "Product Name": "Qantas American Express Ultimate Card",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "23.99",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "N/A",
+      "Min credit limit": "$3,000",
+      "Card type": "American Express"
+    },
+    "detailsFees": {
+      "Annual fee": "$450",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "N/A",
+      "Overseas cash advance fee": "N/A",
+      "Additional cardholder fee": "$0",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "Yes with conditions",
+      "Minimum income": "N/A",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1.25",
+      "Bonus points": "100000",
+      "Rewards points per $ spent": "1.25",
+      "Rewards points cap": "Uncapped"
+    }
+  },
+  "qantas-premier-platinum-creditcard": {
+    "detailsProduct": {
+      "Product Name": "Qantas Premier Platinum",
+      "Balance transfer rate p.a.": "0% for 12 months with 2% balance transfer fee, then 21.99%",
+      "Balance transfer limit": "80% of available limit",
+      "Purchase rate p.a.": "20.99",
+      "Interest-free days": "Up to 44 days on purchases",
+      "Cash advance rate p.a.": "21.99% p.a.",
+      "Min credit limit": "$6,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$349 first year ($399 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$30",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3% or $3, whichever is greater",
+      "Overseas cash advance fee": "$5",
+      "Additional cardholder fee": "$50",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "$35,000",
+      "Joint application": "No"
+    },
+    "rewards": {
+      "Rewards program": "1",
+      "Bonus points": "80000",
+      "Rewards points per $ spent": "1",
+      "Rewards points cap": "Uncapped"
+    }
+  },
+  "humm90-platinum-mastercard": {
+    "detailsProduct": {
+      "Product Name": "Humm90 Platinum Mastercard",
+      "Balance transfer rate p.a.": "N/A",
+      "Balance transfer limit": "N/A",
+      "Purchase rate p.a.": "26.3",
+      "Interest-free days": "Up to 110 days on purchases",
+      "Cash advance rate p.a.": "N/A",
+      "Min credit limit": "$1,000",
+      "Card type": "Mastercard"
+    },
+    "detailsFees": {
+      "Annual fee": "$0 first year ($119.40 after)",
+      "Minimum monthly repayment": "N/A",
+      "Late payment fee": "$35",
+      "Foreign currency conversion fee": "3%",
+      "Cash advance fee": "3%",
+      "Overseas cash advance fee": "3% or $3, whichever is greater",
+      "Additional cardholder fee": "$10",
+      "Number of additional cardholders": "4"
+    },
+    "eligibility": {
+      "Available to temporary residents": "No",
+      "Minimum income": "$25,000",
+      "Joint application": "Yes - Conditions apply"
+    },
+    "rewards": {
+      "Rewards program": "N/A",
+      "Bonus points": "0",
+      "Rewards points per $ spent": "N/A",
+      "Rewards points cap": "N/A"
+    }
+  }
+}
