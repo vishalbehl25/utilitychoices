@@ -69,6 +69,7 @@ export function SiteHeader() {
   const dispatch = useAppDispatch();
   const mobileMenuOpen = useAppSelector(selectMobileMenuOpen);
   const [headerVisible, setHeaderVisible] = useState(true);
+  const [loansDropdownOpen, setLoansDropdownOpen] = useState(false);
   const lastScrollY = useRef(0);
 
   useEffect(() => {
@@ -131,6 +132,138 @@ export function SiteHeader() {
             <UtilityChoiceLogo />
           </Link>
 
+          <nav
+            id="desktop-nav"
+            className="hidden lg:flex items-center gap-6 xl:gap-8 text-[15px] font-bold text-brand-dark"
+          >
+            <Link
+              id="desktop-nav-link-credit-cards"
+              href="/credit-cards"
+              className={cn(
+                'transition-colors duration-200 hover:text-brand-accent-bright',
+                pathname === '/credit-cards' ? 'text-brand-accent-bright' : 'text-brand-dark'
+              )}
+            >
+              Credit Cards
+            </Link>
+
+            <div
+              className="relative"
+              onMouseEnter={() => setLoansDropdownOpen(true)}
+              onMouseLeave={() => setLoansDropdownOpen(false)}
+            >
+              <button
+                id="desktop-nav-loans-btn"
+                type="button"
+                className={cn(
+                  'flex items-center gap-1 cursor-pointer transition-colors duration-200 hover:text-brand-accent-bright py-2 focus:outline-none',
+                  pathname === '/personal-loan' || pathname === '/items'
+                    ? 'text-brand-accent-bright'
+                    : 'text-brand-dark'
+                )}
+                onClick={() => setLoansDropdownOpen(!loansDropdownOpen)}
+                aria-expanded={loansDropdownOpen}
+                aria-haspopup="true"
+              >
+                Loans
+                <svg
+                  className={cn(
+                    'h-4 w-4 transition-transform duration-200',
+                    loansDropdownOpen && 'rotate-180'
+                  )}
+                  fill="none"
+                  viewBox="0 0 24 24"
+                  stroke="currentColor"
+                >
+                  <path
+                    strokeLinecap="round"
+                    strokeLinejoin="round"
+                    strokeWidth={2}
+                    d="M19 9l-7 7-7-7"
+                  />
+                </svg>
+              </button>
+
+              {loansDropdownOpen && (
+                <div
+                  id="desktop-nav-loans-menu"
+                  className="absolute left-0 top-full z-50 mt-1 min-w-[200px] rounded-xl border border-brand-border-light bg-white py-2 shadow-lg animate-in fade-in slide-in-from-top-2 duration-200"
+                >
+                  <Link
+                    id="desktop-nav-link-personal-loan"
+                    href="/personal-loan"
+                    onClick={() => setLoansDropdownOpen(false)}
+                    className={cn(
+                      'block px-4 py-2.5 text-sm font-semibold transition-colors duration-200',
+                      pathname === '/personal-loan'
+                        ? 'bg-brand-cream text-brand-accent-bright'
+                        : 'text-brand-dark hover:bg-brand-light-blue hover:text-brand-primary'
+                    )}
+                  >
+                    Personal Loan
+                  </Link>
+                  <Link
+                    id="desktop-nav-link-home-loan"
+                    href="/items"
+                    onClick={() => setLoansDropdownOpen(false)}
+                    className={cn(
+                      'block px-4 py-2.5 text-sm font-semibold transition-colors duration-200',
+                      pathname === '/items'
+                        ? 'bg-brand-cream text-brand-accent-bright'
+                        : 'text-brand-dark hover:bg-brand-light-blue hover:text-brand-primary'
+                    )}
+                  >
+                    Home Loan
+                  </Link>
+                </div>
+              )}
+            </div>
+
+            <Link
+              id="desktop-nav-link-nbn"
+              href="/nbn"
+              className={cn(
+                'transition-colors duration-200 hover:text-brand-accent-bright',
+                pathname === '/nbn' ? 'text-brand-accent-bright' : 'text-brand-dark'
+              )}
+            >
+              NBN
+            </Link>
+
+            <Link
+              id="desktop-nav-link-solar-panel"
+              href="/solar-pannel"
+              className={cn(
+                'transition-colors duration-200 hover:text-brand-accent-bright',
+                pathname === '/solar-pannel' ? 'text-brand-accent-bright' : 'text-brand-dark'
+              )}
+            >
+              Solar Panel
+            </Link>
+
+            <Link
+              id="desktop-nav-link-inverters"
+              href="/Inverters"
+              className={cn(
+                'transition-colors duration-200 hover:text-brand-accent-bright',
+                pathname === '/Inverters' ? 'text-brand-accent-bright' : 'text-brand-dark'
+              )}
+            >
+              Inverters
+            </Link>
+
+            <Link
+              id="desktop-nav-link-blog"
+              href="/blog"
+              className={cn(
+                'transition-colors duration-200 hover:text-brand-accent-bright',
+                pathname === '/blog' ? 'text-brand-accent-bright' : 'text-brand-dark'
+              )}
+            >
+              Blog
+            </Link>
+          </nav>
+
           <div
             id="header-actions"
             className="flex shrink-0 items-center gap-2 max-[374px]:gap-1.5 sm:gap-3 md:gap-4"
@@ -138,7 +271,7 @@ export function SiteHeader() {
             <button
               id="header-menu-btn"
               type="button"
-              className="inline-flex h-10 shrink-0 cursor-pointer items-center justify-center gap-1 rounded-full bg-brand-accent-bright px-3 text-[13px] font-bold text-white transition-transform hover:scale-[1.02] max-[374px]:h-9 max-[374px]:gap-0 max-[374px]:px-2.5 sm:h-11 sm:gap-1.5 sm:px-4 sm:text-sm md:max-lg:h-11 md:max-lg:min-w-0 md:max-lg:px-4 md:max-lg:text-sm lg:h-[61px] lg:min-w-[142px] lg:gap-2 lg:px-6 lg:text-[16px]"
+              className="inline-flex h-10 shrink-0 cursor-pointer items-center justify-center gap-1 rounded-full bg-brand-accent-bright px-3 text-[13px] font-bold text-white transition-transform hover:scale-[1.02] max-[374px]:h-9 max-[374px]:gap-0 max-[374px]:px-2.5 sm:h-11 sm:gap-1.5 sm:px-4 sm:text-sm md:max-lg:h-11 md:max-lg:min-w-0 md:max-lg:px-4 md:max-lg:text-sm lg:hidden"
               onClick={() => dispatch(setMobileMenuOpen(!mobileMenuOpen))}
               aria-label={mobileMenuOpen ? 'Close menu' : 'Open menu'}
               aria-expanded={mobileMenuOpen}

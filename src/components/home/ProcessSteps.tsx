@@ -15,7 +15,7 @@ const steps: ProcessStepCardProps[] = [
     id: 'process-step-explore',
     title: 'Explore.',
     topLeft: 'arrow',
-    compact: true,
+    compact: false,
     illustration: 'explore',
     description:
       'Enter your postcode with few quick details for top brokers from our pannel with highest rating.',
